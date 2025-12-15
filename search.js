@@ -9,20 +9,52 @@ window.WHH_SEARCH = (function () {
     return null;
   }
 
-  function enableChineseSearch(dict) {
-    const form = document.querySelector('form[action="/decor/"]');
-    if (!form) return;
+  function replaceQuery(input, dict) {
+    if (!input) return false;
 
-    form.addEventListener('submit', e => {
+    const v = input.value.trim();
+    if (!v) return false;
+
+    const en = reverseLookup(dict, v);
+    if (en) {
+      input.value = en;
+      return true;
+    }
+    return false;
+  }
+
+  function bindForm(form, dict) {
+    if (!form || form.__whh_bound) return;
+    form.__whh_bound = true;
+
+    form.addEventListener("submit", () => {
       const input = form.querySelector('input[name="q"]');
-      if (!input) return;
-
-      const v = input.value.trim();
-      if (!v) return;
-
-      const en = reverseLookup(dict, v);
-      if (en) input.value = en;
+      replaceQuery(input, dict);
     });
+  }
+
+  function bindFilterEnterFix(filterForm, dict) {
+    const input = filterForm.querySelector('input[name="q"]');
+    if (!input || input.__whh_enter_bound) return;
+    input.__whh_enter_bound = true;
+
+    input.addEventListener("keydown", e => {
+      if (e.key !== "Enter") return;
+      replaceQuery(input, dict);
+    }, true);
+  }
+
+  function enableChineseSearch(dict) {
+
+    document
+      .querySelectorAll('form[action="/decor/"]')
+      .forEach(form => bindForm(form, dict));
+
+    const filterForm = document.getElementById("filter-form");
+    if (filterForm) {
+      bindForm(filterForm, dict);
+      bindFilterEnterFix(filterForm, dict);
+    }
   }
 
   return {
