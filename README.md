@@ -18,31 +18,11 @@
 
 ### 插件安装和使用
 
-**当前版本**：1.0
-
 - Chrome应用商店（上架审核中）
 
 - Edge应用商店（上架审核中）
 
-- 离线安装包
-
-  [WoWHousingCN 1.0.crx](https://flowus.cn/preview/480368b2-3344-46aa-a14b-7a99ad934c5b)
-
-  [WoWHousingCN 1.0.zip](https://flowus.cn/preview/fd2e6e2e-3372-4ce2-b93e-72990230bb92)
-
-- 简单离线安装教程
-
-  - 对于大多数国产浏览器，把`.crx`文件拖到浏览器窗口即可安装拓展，若提示不可用，或“非官方商店下载”，请看下一步
-
-  - 对于Chrome或Edge，如果你无法访问官方应用商店，可通过“加载已解压的扩展程序”来使用：
-
-    1. 下载离线安装包（`.zip`）并解压
-
-    2. 进入扩展程序-管理扩展程序（.地址栏输入`chrome://extensions/`）右上角开启“开发者模式”
-
-    3. 点击“加载未打包的扩展程序”
-
-    4. 选择你刚才解压好的文件夹（WoWHousingCN）即可
+- 离线安装包：[Github Releases](https://github.com/SGSwdzgr/WoWHousingCN/releases)
 
 安装完成后，进入[housing.wowdb.com](https://housing.wowdb.com)即可使用，如最常用的功能[住宅装饰浏览](https://housing.wowdb.com/decor/#grid-view)，插件无任何配置选项，无任何信息收集，纯本地运行，开启即翻译，停用即关闭
 
@@ -70,9 +50,7 @@
 
 因此，暂时仅推荐使用具体物品名进行搜索。如果是比较抽象的词汇（比如窗户）可能就不行，推荐通过分类筛选来查询
 
-  *tips，因为我本人疏忽，1.0版本只有网页右上角那个可以搜索框可以使用，后面迭代会改的*
-
-[6217d7e46084d5c77c43f8ba32f5c947_raw.mp4](https://cdn2.flowus.cn/fe-web-app-images/resize-left.svg)
+https://github.com/user-attachments/assets/504cf5b3-d983-47f8-8ac0-c199e792a7c4
 
 ---
 
@@ -103,7 +81,7 @@
 
 ### 其他信息
 
-**NGA发布**：​[给WoWDB的家宅数据库写了个中文翻译插件 可适配99%标准简中译名](https://bbs.nga.cn/read.php?tid=45753742)
+**NGA发布**：​[WoWDB家宅数据库中文翻译插件 国服玩家也能用上的家宅信息大全](https://bbs.nga.cn/read.php?tid=45753742)
 
-**Wow114专题**：[家宅系统专题 | 12月10日更新](https://flowus.cn/fb916eb2-20af-43cc-be5a-d4fddf528840)
+**Wow114专题**：[家宅系统专题](https://flowus.cn/yinseliming/share/fb916eb2-20af-43cc-be5a-d4fddf528840)
 
