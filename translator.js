@@ -42,11 +42,6 @@ window.WHH_TRANSLATOR = (function () {
   async function loadTranslations() {
     const files = [
       "DyeColor.json",
-      "addons_elements.json",
-      "addons_filters.json",
-      "addons_vendors.json",
-      "addons_item.json",
-      "addons_quest.json",
       "Faction.json",
       "AreaTable.json",
       "Achievement.json",
@@ -58,6 +53,11 @@ window.WHH_TRANSLATOR = (function () {
       "addons_endeavors.json",
       "HouseTheme.json",
       "HouseRoom.json",
+      "addons_quest.json",
+      "addons_item.json",
+      "addons_vendors.json",
+      "addons_filters.json",
+      "addons_elements.json",
       "HouseDecor.json",
     ];
 
