@@ -18,9 +18,9 @@
 
 ### 插件安装和使用
 
-- Chrome应用商店（上架审核中）
+- [Chrome应用商店](https://chromewebstore.google.com/detail/fhfojbpnldhokbgjoaijlhjhafcedgdg)
 
-- Edge应用商店（上架审核中）
+- [Edge应用商店](https://microsoftedge.microsoft.com/addons/detail/nhafimdmikfkfgflhclfkikljohhpbii)
 
 - 离线安装包：[Github Releases](https://github.com/SGSwdzgr/WoWHousingCN/releases)
 
@@ -59,23 +59,31 @@ https://github.com/user-attachments/assets/504cf5b3-d983-47f8-8ac0-c199e792a7c4
 
 装饰浏览👇
 
-![GShop1.png](https://cdn2.flowus.cn/oss/9219b282-f7a1-4c2b-82f6-13cf6cb6263b/GShop1.png?time=1765768500&token=b249186aadf44ab2d128bf7f4c386a8568fbeb1318a46602517d0cb46f2483f0&role=free)
+<img width="1280" height="800" alt="GShop1" src="https://github.com/user-attachments/assets/a90b2388-a17f-4060-ad07-ba301b0b9008" />
 
 装饰详情👇
 
-![GShop2.png](https://cdn2.flowus.cn/oss/a1beb4cc-ca08-48bd-951a-8f8641645c73/GShop2.png?time=1765770300&token=dbbe59ac73a66a2a0bdd4ca07aa8c4c56b6bfaf5541f79188c27c0d2897430dd&role=sharePaid)
+<img width="1280" height="800" alt="GShop2" src="https://github.com/user-attachments/assets/1176f0cf-68f4-46f1-9be1-d6ee87b8a0d0" />
 
 玩家建造分享👇
 
-![GShop3.png](https://cdn2.flowus.cn/oss/fd070851-1fa9-45b1-be03-360d289c2563/GShop3.png?time=1765770300&token=fdf14c1ee1508ffba08de257b421e25485c51cb4730b296608d8b7c2a4391638&role=sharePaid)
+<img width="1280" height="800" alt="GShop3" src="https://github.com/user-attachments/assets/f3526938-da0a-4656-b0ae-6f69986d9314" />
 
 住宅区地块👇
 
-![GShop4.png](https://cdn2.flowus.cn/oss/00c41379-6ba8-43a6-b755-df4f00f11887/GShop4.png?time=1765770300&token=e8d8e11ddb9a03f8497070a2a29accec8440c6c27542a0471ac443da956e9d72&role=sharePaid)
+<img width="1280" height="800" alt="GShop4" src="https://github.com/user-attachments/assets/b7a97377-7ea3-4841-a432-7fdf5fcf610b" />
 
 装饰商人查询👇
 
-![GShop5.png](https://cdn2.flowus.cn/oss/b1665e1c-fdf7-4c30-b844-d502accb5f6a/GShop5.png?time=1765770300&token=f6d0ab29cb20ae2f869c03fd4c2960f56fa2f7ffe70b2781a99b71edbc05ebdb&role=sharePaid)
+<img width="1280" height="800" alt="GShop5" src="https://github.com/user-attachments/assets/bf3335ff-ec84-4ad4-b866-8b90beb3b600" />
+
+插件专属功能👇
+
+快速跳转至 Wowhead / jinY中文数据库（db.damijing.com），查看更多信息
+
+<img width="254" height="196" alt="popup" src="https://github.com/user-attachments/assets/ff59641f-b7a7-4cf0-aa8b-5b25fc79e59a" />
+
+<img width="478" height="108" alt="right" src="https://github.com/user-attachments/assets/98348724-f87a-4d0c-bc3f-993819a1a084" />
 
 ---
 
