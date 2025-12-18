@@ -6,7 +6,7 @@
 
 - Wowhead家宅浏览器在Beta测试阶段起步缓慢，虽然现在的体验已经足够优秀，且支持原生中文浏览和搜索查询，但它主动屏蔽来自中国的访问，显然无法被国服玩家使用；
 
-- WoWDB对家宅玩法的响应非常迅速，在测试服早期就建立了专题网站，甚至这次暴雪官方蓝贴中使用的都是WoWDB的链接（之前默认使用wowhead链接/专题作为信息拓展），功能也较Wowhead更加丰富，虽可以在国内正常使用，但仅支持英文这一个问题，就拦住了全球几乎所有非英文母语的用户，它的所有者MMO-Champion作为Wowhead唯一的竞争者却一直不温不火，也只有在硬核玩家和数据挖掘者里有一定名声了
+- WoWDB对家宅玩法的响应非常迅速，在测试服早期就建立了专题网站，甚至这次暴雪官方蓝贴中使用的都是WoWDB的链接（之前默认使用wowhead链接/专题作为信息拓展），功能也较Wowhead更加丰富，虽可以在国内正常使用，但仅支持英文这一个问题，就拦住了全球几乎所有非英文母语的用户，它的所有者MMO-Champion作为Wowhead唯一的竞争者一直不温不火，也只有在硬核玩家和数据挖掘者里有一定名声了
 
 ---
 
@@ -61,21 +61,26 @@ https://github.com/user-attachments/assets/504cf5b3-d983-47f8-8ac0-c199e792a7c4
 
 <img width="1280" height="800" alt="GShop1" src="https://github.com/user-attachments/assets/a90b2388-a17f-4060-ad07-ba301b0b9008" />
 
+
 装饰详情👇
 
 <img width="1280" height="800" alt="GShop2" src="https://github.com/user-attachments/assets/1176f0cf-68f4-46f1-9be1-d6ee87b8a0d0" />
+
 
 玩家建造分享👇
 
 <img width="1280" height="800" alt="GShop3" src="https://github.com/user-attachments/assets/f3526938-da0a-4656-b0ae-6f69986d9314" />
 
+
 住宅区地块👇
 
 <img width="1280" height="800" alt="GShop4" src="https://github.com/user-attachments/assets/b7a97377-7ea3-4841-a432-7fdf5fcf610b" />
 
+
 装饰商人查询👇
 
 <img width="1280" height="800" alt="GShop5" src="https://github.com/user-attachments/assets/bf3335ff-ec84-4ad4-b866-8b90beb3b600" />
+
 
 插件专属功能👇
 
