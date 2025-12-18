@@ -1,4 +1,3 @@
-// translator.js
 window.WHH_TRANSLATOR = (function () {
 
   function translateParenthesized(text, dict) {
@@ -30,10 +29,10 @@ window.WHH_TRANSLATOR = (function () {
   function translateTrailingColon(text, dict) {
     if (!text.endsWith(":")) return null;
 
-    const inner = text.slice(0, -1).trim(); // 去掉冒号
+    const inner = text.slice(0, -1).trim();
 
     if (dict[inner]) {
-      return dict[inner] + "：" ; // 全角中文冒号
+      return dict[inner] + "：" ;
     }
 
     return null;
@@ -41,24 +40,25 @@ window.WHH_TRANSLATOR = (function () {
 
   async function loadTranslations() {
     const files = [
-      "DyeColor.json",
-      "Faction.json",
-      "AreaTable.json",
-      "Achievement.json",
-      "CurrencyTypes.json",
-      "DataTagInfo.json",
-      "DataTagGroup.json",
-      "DecorSubcategory.json",
-      "DecorCategory.json",
-      "addons_endeavors.json",
-      "HouseTheme.json",
-      "HouseRoom.json",
-      "addons_quest.json",
-      "addons_item.json",
-      "addons_vendors.json",
-      "addons_filters.json",
-      "addons_elements.json",
-      "HouseDecor.json",
+      "DyeColor.json",                //染料
+      "Faction.json",                 //声望
+      "AreaTable.json",               //小地图区域
+      "Achievement.json",             //成就
+      "CurrencyTypes.json",           //货币
+      "DataTagInfo.json",             //tag详情
+      "DataTagGroup.json",            //tag分类
+      "DecorSubcategory.json",        //子类别
+      "DecorCategory.json",           //类别
+      "HouseLevelRewardInfo.json",    //住宅等级奖励
+      "NeighborhoodInitiative.json",  //文化节
+      "HouseTheme.json",              //住宅主题
+      "HouseRoom.json",               //房间类型
+      "addons_quest.json",            //任务（筛选）
+      "addons_item.json",             //物品（筛选）
+      "addons_vendors.json",          //商人（筛选）
+      "addons_elements.json",         //网页元素
+      "addons_filters.json",          //过滤器
+      "HouseDecor.json",              //住宅装饰
     ];
 
     let merged = {};
