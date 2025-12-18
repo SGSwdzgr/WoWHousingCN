@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "WoWDB住宅中心本地化",
-  "version": "1.2",
+  "name": "WoWDB家宅本地化",
+  "version": "1.3",
   "description": "为WoWDB住宅中心提供中文译名替换，并支持基础搜索功能",
 
   "icons": {
@@ -9,6 +9,20 @@
     "32": "icons/icon32.png",
     "128": "icons/icon128.png",
     "256": "icons/icon512.png"
+  },
+
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "WoW Housing 快速跳转"
   },
 
   "content_scripts": [

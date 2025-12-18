@@ -17,3 +17,17 @@
 
   WHH_SEARCH.enableChineseSearch(dict);
 })();
+
+
+function getDecorIdFromUrl() {
+  const match = location.pathname.match(/^\/decor\/(\d+)\//);
+  return match ? match[1] : null;
+}
+
+chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
+  if (msg.type === "WHH_GET_DECOR_ID") {
+    sendResponse({
+      decorId: getDecorIdFromUrl()
+    });
+  }
+});
