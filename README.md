@@ -1,12 +1,12 @@
-### 写在前面
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/fhfojbpnldhokbgjoaijlhjhafcedgdg) [![Edge Add-ons](https://img.shields.io/badge/Microsoft_Edge_Addons-0078D7?style=flat&logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/nhafimdmikfkfgflhclfkikljohhpbii) [![NGA](https://img.shields.io/badge/NGA-家宅讨论-590000?style=flat)](https://bbs.nga.cn/read.php?tid=45753742) [![GitHub release](https://img.shields.io/github/v/release/SGSwdzgr/WoWHousingCN?logo=github)](https://github.com/SGSwdzgr/WoWHousingCN/releases)
 
-目前中文魔兽家宅游玩中，有一个非常难崩的问题 —— 我们没有一个直观的方式能查询到所有的住宅装饰信息，普遍需要依赖游戏内的插件（比如ATT、HomeBound）来间接收集，而插件本身数据更新也有延迟和错误，且几乎没有解决“查询”这个功能痛点。
+目前中文魔兽家宅游玩中，有一个很难解的问题 —— 我们没有一个直观的方式能查询到所有的住宅装饰信息，普遍需要依赖游戏内的插件（比如ATT、HomeBound）来间接收集，而插件本身数据更新也有延迟和错误，且几乎没有解决“查询”这个功能痛点。
 
 如果把视角放到游戏外，魔兽世界在全球有两大第三方数据库：Wowhead和WoWDB，他们都不怎么能被国服用户使用：
 
-- Wowhead家宅浏览器在Beta测试阶段起步缓慢，虽然现在的体验已经足够优秀，且支持原生中文浏览和搜索查询，但它主动屏蔽来自中国的访问，显然无法被国服玩家使用；
+- [Wowhead家宅浏览器](https://www.wowhead.com/cn/decor-gallery)在Beta测试阶段起步缓慢，虽然现在的体验已经足够优秀，且支持原生中文浏览和搜索查询，但它主动屏蔽来自中国的访问，显然无法被国服玩家使用；
 
-- WoWDB对家宅玩法的响应非常迅速，在测试服早期就建立了专题网站，甚至这次暴雪官方蓝贴中使用的都是WoWDB的链接（之前默认使用wowhead链接/专题作为信息拓展），功能也较Wowhead更加丰富，虽可以在国内正常使用，但仅支持英文这一个问题，就拦住了全球几乎所有非英文母语的用户，它的所有者MMO-Champion作为Wowhead唯一的竞争者一直不温不火，也只有在硬核玩家和数据挖掘者里有一定名声了
+- [WoWDB](https://housing.wowdb.com)对家宅玩法的响应非常迅速，在测试服早期就建立了专题网站，甚至这次暴雪官方蓝贴中使用的都是WoWDB的链接（之前默认使用wowhead链接/专题作为信息拓展），功能也较Wowhead更加丰富，虽可以在国内正常使用，但仅支持英文这一个问题，就拦住了全球几乎所有非英文母语的用户，它的所有者MMO-Champion作为Wowhead唯一的竞争者一直不温不火，也只有在硬核玩家和数据挖掘者里有一定名声了
 
 ---
 
@@ -18,11 +18,11 @@
 
 ### 插件安装和使用
 
-- [Chrome应用商店](https://chromewebstore.google.com/detail/fhfojbpnldhokbgjoaijlhjhafcedgdg)
+- [Google Chrome 应用商店](https://chromewebstore.google.com/detail/fhfojbpnldhokbgjoaijlhjhafcedgdg)
 
-- [Edge应用商店](https://microsoftedge.microsoft.com/addons/detail/nhafimdmikfkfgflhclfkikljohhpbii)
+- [Microsoft Edge 扩展](https://microsoftedge.microsoft.com/addons/detail/nhafimdmikfkfgflhclfkikljohhpbii)
 
-- 离线安装包：[Github Releases](https://github.com/SGSwdzgr/WoWHousingCN/releases)
+- 离线安装：[Github Releases](https://github.com/SGSwdzgr/WoWHousingCN/releases)
 
 安装完成后，进入[housing.wowdb.com](https://housing.wowdb.com)即可使用，如最常用的功能[住宅装饰浏览](https://housing.wowdb.com/decor/#grid-view)，插件无任何配置选项，无任何信息收集，纯本地运行，开启即翻译，停用即关闭
 
