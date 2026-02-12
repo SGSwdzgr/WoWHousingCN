@@ -50,7 +50,8 @@ window.WHH_TRANSLATOR = (function () {
       "DecorSubcategory.json",        //子类别
       "DecorCategory.json",           //类别
       "HouseLevelRewardInfo.json",    //住宅等级奖励
-      "NeighborhoodInitiative.json",  //文化节
+      "NeighborhoodInitiative.json",  //文化节主题
+      "InitiativeTask.json",          //文化节任务
       "HouseTheme.json",              //住宅主题
       "HouseRoom.json",               //房间类型
       "addons_quest.json",            //任务（筛选）
