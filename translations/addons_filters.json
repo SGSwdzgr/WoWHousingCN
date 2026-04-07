@@ -182,6 +182,15 @@
 	"Nearby": "附近",
 	"Portal": "传送门",
 	"Access": "限制",
+	"Requires Midnight": "需要至暗之夜",
+	"Midnight Only": "至暗之夜限定",
+	"Non-Midnight Only": "不限定至暗之夜",
+	"Hidden in Catalog": "在目录中隐藏",
+	"Hidden Only": "隐藏",
+	"Not Hidden Only": "不隐藏",
+	"Has Sources": "有来源信息",
+	"No Sources": "无来源信息",
+	"Unique": "独特",
 
 	"Apply Filters": "应用过滤器",
 	"Clear All": "清除全部"
