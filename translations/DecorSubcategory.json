@@ -3,6 +3,7 @@
   "Beds": "床铺",
   "Bushes": "灌木",
   "Ceiling Lights": "吊灯",
+  "Construction": "建筑",
   "Doors": "门",
   "Floor": "地板",
   "Food and Drink": "食物和饮料",
@@ -27,6 +28,5 @@
   "Utility": "效能",
   "Wall Hangings": "壁挂",
   "Wall Lights": "墙壁灯具",
-  "Walls and Columns": "墙壁与立柱",
   "Windows": "窗户"
 }

@@ -1,22 +1,147 @@
-版本更新日志 (Game Version: 12.0.5.66741 -> 12.0.5.67186)
+版本更新日志 (Game Version: 12.0.5.67186 -> 12.0.7.67360)
 ========================================
 
 【Achievement】
+  [新增] 44 条:
+    + A Celestial Pain -> 七曜之痛
+    + A Trip Around the Stars -> 星辰环游
+    + A Trip Through the Stars -> 穿越星辰
+    + Absolute Power -> 无上之力
+    + Advanced Ritual Site Studies -> 进阶仪式场地研究
+    + Big Prey Hunter (Season 1) -> 王牌狩猎人（第1赛季）
+    + Climate Strange: Naigtal -> 气象异变：奈格塔尔
+    + Climate Strange: Val -> 气象异变：瓦尔
+    + Cradle of Power -> 力量摇篮
+    + Flame Keeper of Midnight -> 至暗之夜护火者
+    + Flame Warden of Midnight -> 至暗之夜护焰者
+    + Heroic Climate Strange: Naigtal -> 英雄气象异变：奈格塔尔
+    + Heroic Climate Strange: Val -> 英雄气象异变：瓦尔
+    + Heroic Showdowns -> 英雄虚空决战
+    + Heroic Tendencies -> 英雄本色
+    + Heroic: Pain of Command -> 英雄：统帅之殇
+    + Heroic: Power Creep -> 英雄：能量蔓延
+    + Heroic: Rotmire -> 腐沼（英雄难度）
+    + Heroic: Rotmire Guild Run -> 英雄：腐沼（公会版）
+    + Heroic: Worlds Ahead -> 英雄：领先世界
+    + Leyline Assaults -> 魔网侵袭
+    + Lorewalking: The Loa -> 游学探奇：洛阿神灵
+    + Magical Primeessence -> 魔法源质
+    + Master of the Turbulent Timeways V -> 紊乱时间流之主 V
+    + Mythic: Rotmire -> 腐沼（史诗难度）
+    + Mythic: Rotmire Guild Run -> 史诗：腐沼（公会版）
+    + Off-World Magic -> 异星魔法
+    + Pain of Command -> 统帅之殇
+    + Pinnacle Ritual Work -> 巅峰仪式工作
+    + Power Beyond Measure -> 无量之威
+    + Ritual Sites 612: Practical Ritual Work -> 仪式场地结业：实用仪式工作
+    + Ritualized Arcana -> 仪式化奥术
+    + Rotmire -> 腐沼
+    + Rotmire (Heroic Sporefall) -> 腐沼（英雄孢陨幽境）
+    + Rotmire (Mythic Sporefall) -> 腐沼（史诗孢陨幽境）
+    + Rotmire (Normal Sporefall) -> 腐沼（普通孢陨幽境）
+    + Rotmire (Raid Finder Sporefall) -> 腐沼（随机孢陨幽境）
+    + Rotmire Guild Run -> 腐沼（公会版）
+    + Showdown Slugger: Naigtal -> 虚空决战重击：奈格塔尔
+    + Showdown Slugger: Val -> 虚空决战重击：瓦尔
+    + Showdown Success: Naigtal -> 虚空决战制胜：奈格塔尔
+    + Showdown Success: Val -> 虚空决战制胜：瓦尔
+    + The Curse of Ula'tek -> 乌拉特克的诅咒
+    + The Sunstrider Omnium -> 逐日者万奥枢纽
+  [更新] 1 条:
+    ~ Cosmic Exterminator: 宇宙除害专家 -> 星界灭绝者
+
+【AreaTable】
+  [新增] 31 条:
+    + Command Point: Primos -> 尊主指挥点
+    + Extraction Coast -> 采掘海岸
+    + Frost Chitter Grotto -> 霜鸣岩洞
+    + Funggor Hollow -> 蕈菌洼地
+    + Glacial Reservoir -> 冰川积渊
+    + Lightbloom -> 光绽
+    + Manaforge: Arcvein -> 法力熔炉：奥脉
+    + Naigtal -> 奈格塔尔
+    + Nexus Port -> 节点港口
+    + Shoals of Rememberance -> 追忆浅滩
+    + Silvermoon City, Prop Hunt -> 银月城，躲猫猫
+    + Sleeper's Grotto -> 沉睡者地穴
+    + Sleet-Rune Hollow -> 霰符洼地
+    + Soltian Marsh -> 索尔蒂安沼泽
+    + Sporefall -> 孢陨幽境
+    + Sporeforge -> 孢子熔炉
+    + Staging Grounds -> 集结地
+    + Steam Ravine -> 蒸雾低地
+    + The Collapsed Passage -> 坍塌通道
+    + The Forgotten Depths -> 遗忘深渊
+    + The Holding Pens -> 拘留圈栏
+    + The Hushed Foyer -> 静谧前厅
+    + The Lost Holdout -> 失落据点
+    + The Lycaneum -> 秘法殿
+    + The South Atrium -> 南部中庭
+    + Umbral Base Camp -> 晦暗大本营
+    + Val -> 瓦尔
+    + Vennorax Wreckage -> 维诺克斯残骸
+    + Vilaldoun -> 维拉尔敦
+    + Void Acropolis -> 虚空卫城
+    + [DO NOT DISTURB] -> [请勿打扰]
+
+【DataTagInfo】
+  [新增] 20 条:
+    + Amani Troll -> 阿曼尼巨魔
+    + Black -> 黑色
+    + Blue -> 蓝色
+    + Brown -> 棕色
+    + Gray -> 灰色
+    + Green -> 绿色
+    + Kyrian -> 格里恩
+    + Mag'har -> 玛格汉兽人
+    + Mechagnome -> 机械侏儒
+    + Necrolord -> 通灵领主
+    + Night Fae -> 法夜
+    + Orange -> 橙色
+    + Pink -> 粉色
+    + Red -> 红色
+    + Venthyr -> 温西尔
+    + Violet / Purple -> 紫罗兰/紫色
+    + White -> 白色
+    + Yellow -> 黄色
+    + beam beams joist joists plank planks -> 梁 横梁 龙骨 木板 木板条
+    + platform platforms base stage foundation -> 平台 地台 基础 舞台 底部
+
+【DecorSubcategory】
   [新增] 1 条:
-    + Midnight Keystone Myth: Season One -> “至暗之夜”钥石神话：第一赛季
+    + Construction -> 建筑
+  [移除] 1 条:
+    - Walls and Columns -> 墙壁与立柱
+
+【DyeColor】
+  [更新] 1 条:
+    ~ Zephras Blue: 微风蓝 -> 泽风蓝
 
 【HouseDecor】
-  [新增] 13 条:
-    + Lush Garden Fungal Picnic -> 葱郁花园真菌野餐位
-    + Lush Garden Hedge -> 葱郁花园绿篱
-    + Lush Garden Rug -> 葱郁花园地毯
-    + Lush Garden Stable -> 葱郁花园兽栏
-    + Spring Blossom Lantern -> 春芳花灯笼
-    + Spring Blossom Privacy Screen -> 春芳花私密屏风
-    + Spring Blossom Stepping Stone -> 春芳花踏石
-    + Spring Blossom Stepping Stone Collection -> 春芳花踏石收藏
-    + Spring Blossom Stepping Stone Duo -> 春芳花踏石双件组
-    + Spring Blossom Stepping Stone Trio -> 春芳花踏石三件组
-    + Spring Blossom Table -> 春芳花桌子
-    + Spring Blossom Tea Set -> 春芳花茶具
-    + Spring Blossom Tranquility Garden -> 春芳花禅意花园
+  [新增] 19 条:
+    + Auspicious Curio Display -> 祥瑞珍玩博古架
+    + Auspicious Golden Carp Lantern -> 祥瑞金鲤灯笼
+    + Auspicious Imperial Lion -> 祥瑞皇家石狮
+    + Auspicious Inkmaster's Desk -> 祥瑞铭文师书桌
+    + Auspicious Meal Case -> 祥瑞食盒
+    + Auspicious Picnic Basket -> 祥瑞野餐篮
+    + Auspicious Stone Lion -> 祥瑞石狮
+    + Auspicious Tree of Fortune -> 祥瑞摇钱树
+    + Auspicious Verdant Basin -> 祥瑞翠玉葫芦
+    + Auspicious Wooden Chair -> 祥瑞木制官帽椅
+    + Banner of Five Dawns -> 五晨寺旗帜
+    + Bartender Bob's "No Weapons Allowed" Rack -> 调酒师鲍勃的“禁止携带武器”架
+    + Deactivated Consortium Translocation Portal -> 停用的星界财团传送门
+    + Large Amani Tiki Mask -> 大型阿曼尼蒂基面具
+    + Left-Bound Silvermoon Drapes -> 左束银月城帐幔
+    + Luminous Rotshroom -> 发光的腐蕈
+    + Right-Bound Silvermoon Drapes -> 右束银月城帐幔
+    + Tied-Left Leather Curtains -> 左系的皮革窗帘
+    + Tome of Kings -> 列王之书
+  [移除] 6 条:
+    - Consortium Translocation Portal -> 星界财团传送门
+    - Founder's Point Gravestone Tower -> 创始者之角墓碑塔
+    - Open Silvermoon Drapes -> 拉开的银月城窗帘
+    - Small Silvermoon Drapes -> 小型银月城窗帘
+    - Tied-Open Leather Curtains -> 卷开的皮革窗帘
+    - Void Flame Candle -> 虚空烈焰蜡烛
