@@ -1,56 +1,18 @@
-版本更新日志 (Game Version: 12.0.7.67360 -> 12.0.7.67808)
+版本更新日志 (Game Version: 12.0.7.67808 -> 12.0.7.68235)
 ========================================
 
 【Achievement】
-  [新增] 13 条:
-    + A Hal'hadar Walks into a Swamp -> 一个哈尔哈达尔走进了沼泽
-    + Broken Throne -> 残破神庙
-    + Daggerspine Point -> 刺脊营
-    + Frosty Domanaar Politics -> 冷酷的多曼纳尔政治
-    + Heroic Slugger -> 英雄重击
-    + Into the Stars -> 步入星辰
-    + Magical Primessence -> 魔法本源
-    + Omnium Folio Studies -> 万奥宝典研究
-    + Prepared for a Showdown -> 虚空决战准备就绪
-    + Showdown Unlock: Bouncy Mushrooms -> 虚空决战解锁：弹跳蘑菇
-    + Showdown Unlock: Grapple Skiffs -> 虚空决战解锁：抓取小艇
-    + Showdown Unlock: Naigtal Spores -> 虚空决战解锁：奈格塔尔孢子
-    + Ultradon Carnage -> 巨凶龙大屠杀
-  [移除] 1 条:
-    - Magical Primeessence -> 魔法源质
-
-【AreaTable】
-  [新增] 4 条:
-    + Extraction Shores -> 萃取海岸
-    + Hidden Spire -> 隐秘尖塔
-    + Marshwalker Refuge -> 沼泽行者庇护所
-    + The Devouring Ingress -> 贪噬侵临点
+  [新增] 1 条:
+    + Goal! -> 进球！
   [更新] 1 条:
-    ~ The Beast Pens: 兽栏 -> 野兽圈栏
-  [移除] 1 条:
-    - Extraction Coast -> 采掘海岸
-
-【DecorSubcategory】
-  [移除] 1 条:
-    - Ambient Lighting -> 环境照明
+    ~ Glory of the Midnight Raider: 午夜团队的荣耀 -> 至暗之夜团队的荣耀
 
 【HouseDecor】
-  [新增] 13 条:
-    + Condensed Anima Orb -> 女伯爵的猩红水晶球
-    + De-Powered Lightforged Siegebreaker -> 失去动力的光铸破城者
-    + Grand Artificer's Lightforged Console -> 大技师的光铸控制台
-    + Lightveil's Transport Pad -> 光帷传送器
-    + Luminant Defender's Golden Barricade -> 光耀守卫者的黄金路障
-    + Luminant Scout's Golden Fence -> 光耀斥候的黄金栅栏
-    + Luminant Soldier's War Banner -> 光耀士兵的战旗
-    + Orchestrion of Echoing Atonement -> 堕罪堡弥撒琴
-    + Square Woolen Rug -> 方形羊毛地毯
-    + Sunstrider Omnium Simulacrum -> 逐日者万奥枢纽模型
-    + Tall Founder's Point Gravestone -> 高大的创始者之角墓碑
-    + Throne of Subjugated Souls -> 猩红大帝的王座
-    + Voidflame Candle -> 虚空烈焰蜡烛
-
-【HouseLevelRewardInfo】
-  [新增] 2 条:
-    + You may now place an additional 50 points of Decor in your yard, for a total of 300. -> 你现在可以在院子里额外放置50点数的装饰，总计300点。
-    + You may now place an additional 50 points of Decor in your yard, for a total of 350. -> 你现在可以在院子里额外放置50点数的装饰，总计350点。
+  [新增] 3 条:
+    + Framed Alliance Pride -> 装裱好的联盟荣耀
+    + Framed Horde Pride -> 装裱好的部落荣耀
+    + Prized Orb of Azeroth -> 珍贵的艾泽拉斯宝珠
+  [更新] 3 条:
+    ~ Auspicious Meal Case: 祥瑞食盒 -> 纳福木函
+    ~ Auspicious Picnic Basket: 祥瑞野餐篮 -> 纳福提篮
+    ~ Auspicious Verdant Basin: 祥瑞翠玉葫芦 -> 八方来财
