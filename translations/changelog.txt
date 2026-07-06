@@ -1,232 +1,175 @@
-版本更新日志 (Game Version: 12.1.0.68209 -> 12.1.0.68301)
+版本更新日志 (Game Version: 12.1.0.68301 -> 12.1.0.68412)
 ========================================
 
 【Achievement】
-  [新增] 100 条:
-    + A Lone Wanderer -> 孤身游荡者
-    + A Round on the House in Midnight -> 至暗之夜酒账全免
-    + Adventurer Mistcrests earned -> 获得冒险者迷雾纹章
-    + Adventurer of the Mist -> 迷雾冒险者
-    + Aquatic Battler of Cataclysm -> 大地的裂变水栖宠物斗士
-    + Aquatic Battler of Outland -> 外域水栖宠物斗士
-    + Battle Mender: Midnight Season 2 -> 战斗愈疗者：“至暗之夜”第2赛季
-    + Beast Battler of Cataclysm -> 大地的裂变野兽宠物斗士
-    + Beast Battler of Outland -> 外域野兽宠物斗士
-    + Buddy System VII: Valeera -> 结伴同行 VII：瓦莉拉
-    + Buddy System VIII: Valeera -> 结伴同行 VIII：瓦莉拉
-    + Challenger I: Midnight Season 2 -> 挑战者 I：“至暗之夜”第2赛季
-    + Challenger II: Midnight Season 2 -> 挑战者 II：“至暗之夜”第2赛季
-    + Champion Mistcrests earned -> 获得勇士迷雾纹章
-    + Champion of the Mist -> 迷雾勇士
-    + Coiled to Strike -> 盘卷待发
-    + Combatant I: Midnight Season 2 -> 争斗者 I：“至暗之夜”第2赛季
-    + Combatant II: Midnight Season 2 -> 争斗者 II：“至暗之夜”第2赛季
-    + Critter Battler of Cataclysm -> 大地的裂变小动物宠物斗士
-    + Critter Battler of Outland -> 外域小动物宠物斗士
-    + Dance While Everyone Watches -> 众目睽睽之下起舞
-    + Dragonkin Battler of Cataclysm -> 大地的裂变龙类宠物斗士
-    + Dragonkin Battler of Outland -> 外域龙类宠物斗士
-    + Duelist: Midnight Season 2 -> 决斗者：“至暗之夜”第2赛季
-    + Elemental Battler of Cataclysm -> 大地的裂变元素宠物斗士
-    + Elemental Battler of Outland -> 外域元素宠物斗士
-    + Elite: Midnight Season 2 -> 精锐：“至暗之夜”第2赛季
-    + Fabled Let Me Solo Him: Azta'rec -> 传说前有单挑：阿兹塔雷克
-    + Family Battler of Cataclysm -> 大地的裂变全谱系宠物斗士
-    + Family Battler of Outland -> 外域全谱系宠物斗士
-    + Fang Fatale -> 致命毒牙
-    + Flying Battler of Cataclysm -> 大地的裂变飞行宠物斗士
-    + Flying Battler of Outland -> 外域飞行宠物斗士
-    + Gladiator: Midnight Season 2 -> 角斗士：“至暗之夜”第2赛季
-    + Gnarldor Isle Discoveries -> 纳拉多尔岛探索
-    + Gnarldor Isle Stories -> 纳拉多尔岛故事
-    + Gnarldor Isle clears -> 纳拉多尔岛通关
-    + Hero Mistcrests earned -> 获得英雄迷雾纹章
-    + Hero of the Alliance: Venomous -> 联盟英雄：烈毒
-    + Hero of the Horde: Venomous -> 部落英雄：烈毒
-    + Hero of the Mist -> 迷雾英雄
-    + Humanoid Battler of Cataclysm -> 大地的裂变人型宠物斗士
-    + Humanoid Battler of Outland -> 外域人型宠物斗士
-    + It's Definitely Something -> 这绝对非同寻常
-    + Legend: Midnight Season 2 -> 传奇：“至暗之夜”第2赛季
-    + Let Me Solo Him: Azta'rec -> 前有单挑：阿兹塔雷克
-    + Let Sleeping Skulls Lie -> 莫惹沉睡之骨
-    + Magic Battler of Cataclysm -> 大地的裂变魔法宠物斗士
-    + Magic Battler of Outland -> 外域魔法宠物斗士
-    + Mechanical Battler of Cataclysm -> 大地的裂变机械宠物斗士
-    + Mechanical Battler of Outland -> 外域机械宠物斗士
-    + Midnight Season 2: Catalyst Unbound -> “至暗之夜”第2赛季：化生台解缚
-    + Midnight Season 2: Serpent Scion -> “至暗之夜”第2赛季：毒蛇子嗣
-    + Midnight: Journey's End (Season 2) -> 至暗之夜：旅程的终点（第2赛季）
-    + My Venomous Nemesis -> 我的烈毒宿敌
-    + Mysterious Mix Master -> 神秘的调配大师
-    + Myth Mistcrests earned -> 获得神话迷雾纹章
-    + Myth of the Mist -> 迷雾神话
-    + Mythic: Ula'tek -> 史诗：乌拉特克
-    + One, Two, Ral'kala's Coming for You -> 一，二，拉尔卡拉来抓你啦
-    + Prey: Coiled Nightmares -> 狩猎：盘卷梦魇
-    + Purging the Poison -> 清除剧毒
-    + Ritual Behavior -> 仪式行为
-    + Rival I: Midnight Season 2 -> 竞争者 I：“至暗之夜”第2赛季
-    + Rival II: Midnight Season 2 -> 竞争者 II：“至暗之夜”第2赛季
-    + Skyriding Glyphs: Blistering Terrace -> 驭空术魔符：毒疱平台
-    + Skyriding Glyphs: Gate of the Eastern Fang -> 驭空术魔符：东牙侧门
-    + Skyriding Glyphs: Gate of the Serpent's Eye -> 驭空术魔符：蛇眼之门
-    + Skyriding Glyphs: Southern Island -> 驭空术魔符：南部岛屿
-    + Skyriding Glyphs: The Forum -> 驭空术魔符：广场
-    + Skyriding Glyphs: The Serpent's Tail -> 驭空术魔符：毒蛇之尾
-    + Skyriding Glyphs: The Whispering Marsh -> 驭空术魔符：低语沼泽
-    + Skyriding Glyphs: The Wreck of Sethralis's Scales -> 驭空术魔符：塞塔里斯之鳞号残骸
-    + Skyriding Glyphs: Tokka's Landing -> 驭空术魔符：托卡的登陆点
-    + Soft Underbelly -> 软肋
-    + Souvenir Seeker, Razorwind Shores -> 纪念品搜寻者：烈风海岸
-    + Sssensational! -> 嘶嘶动人！
-    + Strategist: Midnight Season 2 -> 战略专家：“至暗之夜”第2赛季
-    + The Briny Best -> 咸水之最
-    + The Coiled Isle Safari -> 盘卷蛇岛大狩猎
-    + The Coiled Isles Glyph Hunter -> 盘卷蛇岛魔印猎人
-    + The Ring of Glory Discoveries -> 荣耀之环探索
-    + The Ring of Glory Stories -> 荣耀之环故事
-    + The Ring of Glory clears -> 荣耀之环通关
-    + Tour of Duty: The Coiled Isle -> 使命之旅：盘卷蛇岛
-    + Tox'Atal clears -> 托克萨阿塔通关
-    + Treasures of the Coiled Isle -> 盘卷蛇岛的宝藏
-    + Tricks and Treats of Midnight -> 至暗之夜的糖果
-    + Turn the Surge -> 扭转狂潮
-    + Undead Battler of Cataclysm -> 大地的裂变亡灵宠物斗士
-    + Undead Battler of Outland -> 外域亡灵宠物斗士
-    + Venomous Combatant -> 烈毒争斗者
-    + Venomous Gladiator: Midnight Season 2 -> 烈毒角斗士：“至暗之夜”第2赛季
-    + Venomous Legend: Midnight Season 2 -> 烈毒传说：“至暗之夜”第2赛季
-    + Venomous Marshal: Midnight Season 2 -> 烈毒元帅：“至暗之夜”第2赛季
-    + Venomous Warlord: Midnight Season 2 -> 烈毒督军：“至暗之夜”第2赛季
-    + Venomous Weapons of Conquest -> 烈毒征服武器
-    + Veteran Mistcrests earned -> 获得老兵迷雾纹章
-    + Veteran of the Mist -> 迷雾老兵
-    + Vicious Saddle (44) -> 邪气鞍座（44）
+  [新增] 84 条:
+    + A Stack of Snacks -> 零食成堆
+    + Accidental Inclusion -> 纯属误伤
+    + Ahead of the Curve: Ula'tek -> 引领潮流：乌拉特克
+    + Angler of The Coiled Isle -> 盘卷蛇岛独钓寒江
+    + Assault the Vault -> 地窟终结者
+    + Big Prey Hunter (Season 2) -> 王牌狩猎人（第2赛季）
+    + Captain Tokka's Crew -> 托卡船长的至交血誓
+    + Cutting Edge: Ula'tek -> 千钧一发：乌拉特克
+    + Entombed Sentinels (Heroic The Venomous Abyss) -> 陵寝哨兵（英雄烈毒之渊）
+    + Entombed Sentinels (Mythic The Venomous Abyss) -> 陵寝哨兵（史诗烈毒之渊）
+    + Entombed Sentinels (Normal The Venomous Abyss) -> 陵寝哨兵（普通烈毒之渊）
+    + Entombed Sentinels (Raid Finder The Venomous Abyss) -> 陵寝哨兵（随机烈毒之渊）
+    + Explore the Coiled Isle -> 探索盘卷蛇岛
+    + Fully Corroded -> 彻底腐蚀
+    + Hall of Fame: Ula'tek -> 名人堂：乌拉特克
+    + Heroic: The Venomous Abyss -> 烈毒之渊（英雄难度）
+    + Heroic: The Venomous Abyss Guild Run -> 英雄：烈毒之渊（公会版）
+    + Keystone Victor: Altar of Fangs -> 钥石胜利者：毒牙祭坛
+    + Keystone Victor: Den of Nalorakk -> 钥石胜利者：纳洛拉克的洞穴
+    + Keystone Victor: Kings' Rest -> 钥石胜利者：诸王之眠
+    + Keystone Victor: Murder Row -> 钥石胜利者：密谋小径
+    + Keystone Victor: Ruby Life Pools -> 钥石胜利者：红玉新生法池
+    + Keystone Victor: Temple of Sethraliss -> 钥石胜利者：塞塔里斯神庙
+    + Keystone Victor: The Blinding Vale -> 钥石胜利者：夺目谷
+    + Keystone Victor: Voidscar Arena -> 钥石胜利者：虚空之痕竞技场
+    + Kill Me Now -> 毁灭吧，赶紧的
+    + Mythic: Entombed Sentinels -> 陵寝哨兵（史诗难度）
+    + Mythic: Nek'zali the Soulcoiler -> 盘魂者内克扎莉（史诗难度）
+    + Mythic: Sszorak -> 斯索拉克（史诗难度）
+    + Mythic: The Lost Explorers -> 迷失的探险者（史诗难度）
+    + Mythic: The Twin Fangs -> 双子毒牙（史诗难度）
+    + Mythic: The Venomous Abyss -> 烈毒之渊（史诗难度）
+    + Mythic: Ula'tek Guild Run -> 史诗：乌拉特克（公会版）
+    + Mythic: Vashnik the Malignant -> 万毒邪祟者瓦什尼克（史诗难度）
+    + Nek'zali the Soulcoiler (Heroic The Venomous Abyss) -> 盘魂者内克扎莉（英雄烈毒之渊）
+    + Nek'zali the Soulcoiler (Mythic The Venomous Abyss) -> 盘魂者内克扎莉（史诗烈毒之渊）
+    + Nek'zali the Soulcoiler (Normal The Venomous Abyss) -> 盘魂者内克扎莉（普通烈毒之渊）
+    + Nek'zali the Soulcoiler (Raid Finder The Venomous Abyss) -> 盘魂者内克扎莉（随机烈毒之渊）
+    + No Egg Scramble -> 保全蛇卵
+    + Nymrissa Wavecaller (Heroic The Tidebound Grotto) -> 尼姆瑞莎·唤波者（英雄潮缚石窟）
+    + Nymrissa Wavecaller (Mythic The Tidebound Grotto) -> 尼姆瑞莎·唤波者（史诗潮缚石窟）
+    + Nymrissa Wavecaller (Normal The Tidebound Grotto) -> 尼姆瑞莎·唤波者（普通潮缚石窟）
+    + Nymrissa Wavecaller (World The Tidebound Grotto) -> 尼姆瑞莎·唤波者（世界潮缚石窟）
+    + Oppose the Foes -> 强敌宿怨
+    + Pro Poison Patroller -> 王牌剧毒巡逻员
+    + Roll the Patrol -> 来场说走就走的巡逻
+    + Sashay Away -> 优雅闪避
+    + Snake Charmed, I'm Sure -> 你成功引起了蛇的注意
+    + Snake Stompin' -> “蛇”我其谁
+    + Souvenir Seeker, Founder's Point -> 纪念品搜寻者：创始者之角
+    + Spike the Strike -> 突袭针锋相对
+    + Sszorak (Heroic The Venomous Abyss) -> 斯索拉克（英雄烈毒之渊）
+    + Sszorak (Mythic The Venomous Abyss) -> 斯索拉克（史诗烈毒之渊）
+    + Sszorak (Normal The Venomous Abyss) -> 斯索拉克（普通烈毒之渊）
+    + Sszorak (Raid Finder The Venomous Abyss) -> 斯索拉克（随机烈毒之渊）
+    + Submerge the Incursion -> 给侵攻降降温
+    + Superlative Souvenir Seeker -> 纪念品大满贯
+    + The Lost Explorers (Heroic The Venomous Abyss) -> 迷失的探险者（英雄烈毒之渊）
+    + The Lost Explorers (Mythic The Venomous Abyss) -> 迷失的探险者（史诗烈毒之渊）
+    + The Lost Explorers (Normal The Venomous Abyss) -> 迷失的探险者（普通烈毒之渊）
+    + The Lost Explorers (Raid Finder The Venomous Abyss) -> 迷失的探险者（随机烈毒之渊）
+    + The Twin Fangs (Heroic The Venomous Abyss) -> 双子毒牙（英雄烈毒之渊）
+    + The Twin Fangs (Mythic The Venomous Abyss) -> 双子毒牙（史诗烈毒之渊）
+    + The Twin Fangs (Normal The Venomous Abyss) -> 双子毒牙（普通烈毒之渊）
+    + The Twin Fangs (Raid Finder The Venomous Abyss) -> 双子毒牙（随机烈毒之渊）
+    + The Venomous Abyss Guild Run -> 烈毒之渊（公会版）
+    + The Venomous Abyss: Beasts of Ula'tek -> 烈毒之渊：乌拉特克的狂兽
+    + The Venomous Abyss: Essence of Ula'tek -> 烈毒之渊：乌拉特克的精华
+    + The Venomous Abyss: Ula'tek -> 烈毒之渊：乌拉特克
+    + Tokka's Terrible Trials -> 托卡的魔鬼试炼
+    + Toxic Trophies -> 水产中毒标本
+    + Ula'tek (Heroic The Venomous Abyss) -> 乌拉特克（英雄烈毒之渊）
+    + Ula'tek (Mythic The Venomous Abyss) -> 乌拉特克（史诗烈毒之渊）
+    + Ula'tek (Normal The Venomous Abyss) -> 乌拉特克（普通烈毒之渊）
+    + Ula'tek (Raid Finder The Venomous Abyss) -> 乌拉特克（随机烈毒之渊）
+    + Ula'tek Uncoiled -> 出洞吧，乌拉特克
+    + Vashnik the Malignant (Heroic The Venomous Abyss) -> 万毒邪祟者瓦什尼克（英雄烈毒之渊）
+    + Vashnik the Malignant (Mythic The Venomous Abyss) -> 万毒邪祟者瓦什尼克（史诗烈毒之渊）
+    + Vashnik the Malignant (Normal The Venomous Abyss) -> 万毒邪祟者瓦什尼克（普通烈毒之渊）
+    + Vashnik the Malignant (Raid Finder The Venomous Abyss) -> 万毒邪祟者瓦什尼克（随机烈毒之渊）
+    + Venomous Vestments -> 烈毒华服
+    + Well Decorated -> 金碧辉煌
+    + Where Did You Get That? -> 你这宝贝哪儿捞的？
+    + You Guys, Again? -> 怎么老是你们？
 
 【AreaTable】
-  [新增] 2 条:
-    + Amani Foothold -> 阿曼尼据点
-    + Defiant Ring -> 抗命者之环
+  [新增] 18 条:
+    + Altar of the Six Winds -> 六风祭坛
+    + Ancient Burrow -> 远古穴窟
+    + Crypt of the Soulcoilers -> 盘魂者地窟
+    + Halls of the Malignant -> 万毒大厅
+    + Mor'zahi's Tomb -> 莫尔扎希之墓
+    + Mutation Chambers -> 突变温室
+    + Pit of Fangs -> 毒牙深渊
+    + Sacrificial Approach -> 祭血通道
+    + The Altar of Fangs -> 毒牙祭坛
+    + The Carnage Pit -> 屠戮深坑
+    + The Chamber of Virulence -> 邪毒温室
+    + The Coiled Altar -> 盘卷祭坛
+    + The Serpent Warren -> 蛇裔地洞
+    + The Soulcoil Well -> 盘魂之井
+    + The Tomb of Ula'tek -> 乌拉特克之墓
+    + The Venomducts -> 烈毒通道
+    + The Vile Crypt -> 污秽墓穴
+    + Wreck of Paku's Talon -> 帕库之爪号残骸
+  [移除] 1 条:
+    - Wreck of Sethralis's Scale -> 塞塔里斯之鳞号残骸
 
 【CurrencyTypes】
-  [新增] 2 条:
-    + Coiled Filament -> 盘卷游丝
-    + Test Myth Dawncrest -> 测试神话曙光纹章
+  [新增] 3 条:
+    + Captain Tokka -> 托卡船长
+    + Cleansing Multiplier -> 净化倍率
+    + Wave Multiplier -> 波次倍率
 
-【DyeColor】
-  [新增] 11 条:
-    + Aethril Pink -> 安瑟瑞尔花粉
-    + Amani Green -> 阿曼尼绿
-    + Dark Mahogany -> 深邃桃花心木
-    + Dark Mesquite -> 深色牧豆树
-    + Dusty Red -> 尘红
-    + Faded Mana -> 褪色法力
-    + Foxflower Orange -> 狐尾花橙
-    + Pearl White -> 珍珠白
-    + Petal Pink -> 花瓣粉
-    + Tranquility Blue -> 宁静蓝
-    + Verdant Green -> 葱绿
+【DecorSubcategory】
+  [新增] 2 条:
+    + Pet Beds -> 宠物床
+    + Vines and Hanging Plants -> 藤蔓与悬挂植物
+
+【Faction】
+  [新增] 1 条:
+    + Captain Tokka -> 托卡船长
+  [移除] 1 条:
+    - Prey: Season 2 -> 狩猎：第2赛季
 
 【HouseDecor】
-  [新增] 72 条:
-    + Adorned Sin'dorei Satchel -> 华饰辛多雷背包
-    + Aetherlume Field Lamp -> 以太流明战地灯
-    + Amani Forgemaster's Glaive -> 阿曼尼熔炉主管的战刃
-    + Amani Forgemaster's Rack -> 阿曼尼熔炉主管的武器架
-    + Amani Forgemaster's Workbench -> 阿曼尼熔炉主管的工作台
-    + Bound Silvermoon Drapes -> 束起的银月城帐幔
-    + Bound-Left Silvermoon Drapes -> 左束银月城帐幔
-    + Bound-Right Silvermoon Drapes -> 右束银月城帐幔
-    + Clumped Asteroidea -> 成簇的海星
-    + Coiled Hookshot -> 盘卷抓钩
-    + Concocted Poisonous Residue -> 配制的剧毒残渣
-    + Elegant Enchanted Vanity -> 优雅的附魔梳妆台
-    + Enchanted Eversong Trout -> 附魔永歌鳟鱼
-    + Fine Captain's Bottle -> 精良的船长之瓶
-    + Furious Tiki Mask -> 狂怒蒂基面具
-    + Gilded Silvermoon Compass -> 鎏金银月城罗盘
-    + Hanging Blood Knights Shield -> 悬挂的血骑士盾牌
-    + Hanging Candles -> 悬挂的蜡烛
-    + Hanging Coiled Isle Ropes -> 悬挂的盘卷蛇岛绳索
-    + Hatchery of Hissing Eggs -> 嘶声蛇卵孵化场
-    + Hexed Tomb Brazier -> 妖术陵墓火盆
-    + Hooked Net Trap -> 钩网陷阱
-    + Keen Hex Mask -> 敏锐妖术面具
-    + Lost Tortollan Scroll -> 迷失的始祖龟卷轴
-    + Mastercrafted Fungal Row Planter -> 精工真菌排式盆栽
-    + Masterful Sin'dorei Gravestone -> 精湛的辛多雷墓碑
-    + Mounted Moby -> 莫比鱼标本壁挂
-    + Mysterious Sin'dorei Candlestick -> 神秘的辛多雷烛台
-    + Ogre Champion's Prized Skull -> 食人魔勇士的珍贵颅骨
-    + Pillar of the Coiled Isle -> 盘卷蛇岛之柱
-    + Pillar of the Fanged Altar -> 毒牙祭坛之柱
-    + Preyhunter's Terror Bust -> 猎捕手的恐怖半身像
-    + Preyhunter's Terror Effigy -> 猎捕手的恐怖雕像
-    + Purified Ancient Urn -> 净化的远古骨灰瓮
-    + Purified Crude Axe -> 净化的简陋之斧
-    + Purified Crude Hammer -> 净化的简陋之锤
-    + Purified Dracthyr Stein -> 净化的龙希尔酒杯
-    + Purified Earthen Pot -> 净化的土灵罐
-    + Purified Elven Glowlamp -> 净化的精灵发光灯
-    + Purified Elven Mirror -> 净化的精灵镜子
-    + Purified Floating Lantern -> 净化的悬浮灯笼
-    + Purified Folk Candle -> 净化的质朴蜡烛
-    + Purified Folk Mirror -> 净化的质朴镜子
-    + Purified Goblin Cup -> 净化的地精杯子
-    + Purified Kaldorei Candle -> 净化的卡多雷蜡烛
-    + Purified Sindorei Candle -> 净化的辛多雷蜡烛
-    + Purified Tauren Pot -> 净化的牛头人罐
-    + Purified Troll Amulet -> 净化的巨魔护符
-    + Purified Troll Loop -> 净化的巨魔圆环
-    + Purified Troll Pendant -> 净化的巨魔坠饰
-    + Purified Troll Pitcher -> 净化的巨魔水罐
-    + Purified Troll Ring -> 净化的巨魔指环
-    + Purified Troll Urn -> 净化的巨魔骨灰瓮
-    + Revered Deepstone Table -> 崇敬的深石桌
-    + Royal Attendant's Coffin -> 皇家侍从的棺材
-    + Sin'dorei Golden Welcome -> 辛多雷黄金迎宾
-    + Soulcoiler's Ritual Candle -> 盘魂者的仪式蜡烛
-    + Stonecarved Sin'dorei Jar -> 石雕辛多雷罐
-    + Stormstout Hanging Lantern -> 风暴烈酒悬挂灯笼
-    + Stretched Snakeskin Rack -> 拉伸的蛇皮架子
-    + Sturdy Silvermoon Crate -> 牢固的银月城箱子
-    + Sturdy Silvermoon Crate Lid -> 牢固的银月城箱盖
-    + The Venomous Abyss Argent Trophy -> 烈毒之渊闪银战利品
-    + The Venomous Abyss Aureate Trophy -> 烈毒之渊耀金战利品
-    + The Venomous Abyss Gleaming Trophy -> 烈毒之渊闪耀战利品
-    + Tortollan Slingsack -> 始祖龟单肩包
-    + Twilight Brazier -> 暮光火盆
-    + Venom-Fanged Font -> 毒牙之泉
-    + Venombound Ropes -> 毒缚绳索
-    + Venomous Pyre -> 烈毒火堆
-    + Vessel of the Howling Ossuary -> 哀嚎藏骨瓮
-    + Zul'Aman Pine Tree -> 祖阿曼松树
-  [更新] 9 条:
-    ~ Auspicious Curio Display: 祥瑞珍玩博古架 -> 陈宝博古架
-    ~ Auspicious Golden Carp Lantern: 祥瑞金鲤灯笼 -> 锦绣金鲤灯
-    ~ Auspicious Imperial Lion: 祥瑞皇家石狮 -> 守望者石狮·镇
-    ~ Auspicious Inkmaster's Desk: 祥瑞铭文师书桌 -> 条案端景台
-    ~ Auspicious Stone Lion: 祥瑞石狮 -> 守望者石狮·守
-    ~ Auspicious Tree of Fortune: 祥瑞摇钱树 -> 发财树
-    ~ Auspicious Wooden Chair: 祥瑞木制官帽椅 -> 太师椅
-    ~ Lunar Celebrant's Cradle: 春节欢庆者的摇篮 -> 安眠福榻
-    ~ Lunar Celebrant's Ornate Vanity: 春节欢庆者的华丽梳妆台 -> 妆镜红木台
+  [新增] 8 条:
+    + "Rage of the Shackled" Mural -> “受枷者的狂怒”壁画
+    + "The Hunger Awakens" Mural -> “饥渴苏醒”壁画
+    + Clutch of Ula'tek -> 乌拉特克的卵簇
+    + Egg of Ula'tek -> 乌拉特克之卵
+    + Forgotten Amani Mural -> 被遗忘的阿曼尼壁画
+    + K'areshi Tea Cup -> 卡雷什茶杯
+    + Unearthed Sarcophagus Base -> 出土的石棺底座
+    + Unearthed Sarcophagus Lid -> 出土的石棺盖
+  [移除] 21 条:
+    - Amani Forgemaster's Glaive -> 阿曼尼熔炉主管的战刃
+    - Ball -> 球
+    - Centaur Bench -> 半人马长椅
+    - Centaur Stove -> 半人马火炉
+    - Centaur Table -> 半人马桌子
+    - Closed Centaur Basket -> 闭合的半人马篮子
+    - Coiled Hookshot -> 盘卷抓钩
+    - Concocted Poisonous Residue -> 配制的剧毒残渣
+    - Cooked Leg of Meat -> 烹饪的肉腿
+    - Cooked Rack of Meat -> 烹饪的排骨
+    - Enchanted Eversong Trout -> 附魔永歌鳟鱼
+    - Fine Captain's Bottle -> 精良的船长之瓶
+    - Hanging Blood Knights Shield -> 悬挂的血骑士盾牌
+    - Long Centaur Wall -> 长版半人马墙
+    - Narrow Centaur Carpet -> 窄版半人马地毯
+    - Open Centaur Basket -> 敞开的半人马篮子
+    - Purified Sindorei Candle -> 净化的辛多雷蜡烛
+    - Round Centaur Carpet -> 圆形半人马地毯
+    - Short Centaur Wall -> 短版半人马墙
+    - Tapered Centaur Wall -> 锥形半人马墙
+    - Wide Centaur Carpet -> 宽版半人马地毯
 
-【HouseLevelRewardInfo】
-  [新增] 4 条:
-    + Large-Size House Exteriors -> 大型住宅外观
-    + Treasures from Distant Lands -> 天涯处的宝藏
-    + Visit the Last Architect in your neighborhood once each week to obtain an Arcanostorage Sphere, containing a random piece of decor from a curated selection of the Last Architect's collection. -> 每周拜访一次你住宅区里的最后的建筑师，获取一颗奥术秘藏光球，里面包含一件从最后的建筑师精选收藏中随机挑选的装饰。
-    + You may now use large-size house exteriors for your house. -> 你现在可以为你的住宅使用大型住宅外观了。
+【InitiativeTask】
+  [新增] 1 条:
+    + Home: Wash Bakar -> 安居乐业：清洗獒犬
+  [移除] 4 条:
+    - In your neighborhood, Find Secret Souvenirs hidden by tortollan children. -> 在你的住宅区中，寻找并收集始祖龟孩子们藏起来的秘密纪念品。
+    - In your neighborhood, commision a wax sculpture from a kobold artist. This task can be completed once per day. -> 在你的住宅区中，委托一位狗头人艺术家制作一件蜡雕。此任务每天可完成一次。
+    - Participate in activities on Lost Arvallo in Waking Shores in the Dragon Isles. -> 在巨龙群岛觉醒海岸的失落阿瓦罗上参与各项活动。
+    - Recover Archeology Finds at Digsites in Zandalar or Kul Tiras -> 在赞达拉或库尔提拉斯的挖掘场恢复考古发现。
 
 【NeighborhoodInitiative】
-  [新增] 8 条:
-    + Candle Culture -> 蜡烛文化
-    + Every Bakar Has Its Day -> 獒犬也有出头天
-    + Griftah and his traveling troupe of traders are visiting the neighborhood to trade their "traditional Amani goods". They may not be genuine, but they look good. -> 格里伏塔和他手下的游商小队来到了住宅区做买卖，推销所谓的“传统阿曼尼商品”。这些东西也许不是正品，但至少看起来还不错。
-    + Knock-off Amani -> 高仿阿曼尼
-    + Residents of the neighborhood love their pets, but they could use some help training them. The Maruuk of the Ohn'ahran Plains have very strong bonds with their bakar, and they may be willing to pass on some training tips. -> 住宅区的居民很爱他们的宠物，但在训练方面需要一些帮助。欧恩哈拉平原的马鲁克与他们的獒犬之间有着极深的羁绊，他们也许愿意传授一些训练技巧。
-    + Strange wax deposits have started to appear in the neighborhood. Who better to find a use than the Kobolds of the Ringing Deeps! Seek their counsel on illumination. -> 住宅区里开始出现奇怪的蜡质沉积物。要说谁最懂得怎么利用这些东西，那非喧鸣深窟的狗头人莫属！去向他们请教照明的建议吧。
-    + The tortollans are a worldly folk. So worldly, in fact, that they need no introduction to your neighborhood--they've been vacationing here long before you put down your roots! Share in their recreational wisdom. -> 始祖龟是一个见多识广的种族。事实上，他们如此见多识广，以至于根本不需要熟悉你的住宅区——早在你扎根于此之前，他们就已经在这里度假了！去分享他们休闲娱乐的智慧吧。
-    + Vacation Season -> 度假季
+  [移除] 1 条:
+    - Strange wax deposits have started to appear in the neighborhood. Who better to find a use than the Kobolds of the Ringing Deeps! Seek their counsel on illumination. -> 住宅区里开始出现奇怪的蜡质沉积物。要说谁最懂得怎么利用这些东西，那非喧鸣深窟的狗头人莫属！去向他们请教照明的建议吧。
