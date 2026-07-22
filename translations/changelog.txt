@@ -1,177 +1,70 @@
-版本更新日志 (Game Version: 12.1.0.68412 -> 12.1.0.68569)
+版本更新日志 (Game Version: 12.1.0.68569 -> 12.1.0.68824)
 ========================================
-
-【Achievement】
-  [新增] 30 条:
-    + Comforting Da Spirits -> 安抚精魂
-    + Cursebreaker -> 破咒者
-    + Fangs for the Memories -> 难忘今宵毒牙夜
-    + Glory of the Venomous Raider -> 烈毒团队副本的荣耀
-    + Heroic: Nymrissa Wavecaller -> 尼姆瑞莎·唤波者（英雄难度）
-    + In Case Of Emergency -> 紧急情况
-    + Midnight Keystone Master: Season 1 -> “至暗之夜”钥石大师：第1赛季
-    + Midnight Keystone Myth: Season 1 -> “至暗之夜”钥石神话：第1赛季
-    + Mythic: Nymrissa Wavecaller -> 尼姆瑞莎·唤波者（史诗难度）
-    + Mythic: The Coiled Altar -> 盘卷祭坛（史诗难度）
-    + New Friends -> 新朋友
-    + Nine, Ten, Never Sleep Again -> 九，十，合眼就去死
-    + Nymrissa Wavecaller -> 尼姆瑞莎·唤波者
-    + Scales for Days -> 鳞次栉比
-    + Skyriding Glyphs: The Wreck of Paku's Talon -> 驭空术魔符：帕库之爪号残骸
-    + Student of Hissstory -> 嘶声历史学者
-    + Taking a Bite out of Slime -> 尝尝软泥的滋味
-    + That's a Wrap -> 大功告成
-    + The Coiled Altar (Heroic The Venomous Abyss) -> 盘卷祭坛（英雄烈毒之渊）
-    + The Coiled Altar (Mythic The Venomous Abyss) -> 盘卷祭坛（史诗烈毒之渊）
-    + The Coiled Altar (Normal The Venomous Abyss) -> 盘卷祭坛（普通烈毒之渊）
-    + The Coiled Altar (Raid Finder The Venomous Abyss) -> 盘卷祭坛（随机烈毒之渊）
-    + The Curse of Ula'tek -> 乌拉特克的诅咒
-    + The Honored Dead -> 荣耀死者
-    + The Venomous Abyss -> 烈毒之渊
-    + Treasures of the Damned -> 天谴者宝藏
-    + Umbral Champion: Midnight Season 1 -> 晦暗勇士：“至暗之夜”第1赛季
-    + Umbral Hero: Midnight Season 1 -> 晦暗英雄：“至暗之夜”第1赛季
-    + Venomous Gladiator's Goredrake -> 烈毒角斗士的残虐幼龙
-    + Watch Out Behind You -> 背发凉，心慌慌
-  [更新] 2 条:
-    ~ Put a Pin in It: 插旗留念 -> 插针留念
-    ~ Skyriding Glyphs: The Fangs: 驭空术魔符：獠牙岩滩 -> 驭空术魔符：毒牙区
 
 【AreaTable】
   [新增] 2 条:
-    + Dummy Dome -> 假人穹顶
-    + Wreck of Sethraliss's Scale -> 塞塔里斯之鳞号残骸
-  [更新] 2 条:
-    ~ The Chamber of Virulence: 邪毒温室 -> 邪毒密室
-    ~ The Venomducts: 烈毒通道 -> 毒瀑回廊
-
-【CurrencyTypes】
-  [新增] 3 条:
-    + Contained Corruption -> 封存腐化
-    + PMM Currency 1 -> PMM货币 1
-    + PMM Currency 2 -> PMM货币 2
-
-【DyeColor】
-  [新增] 4 条:
-    + Dark Obsidium -> 深黑曜石
-    + Klaxxi Amber -> 卡拉克西琥珀
-    + Stonetalon Brick -> 石爪砖红
-    + Tirisfal Green -> 提瑞斯法绿
-
-【Faction】
-  [新增] 1 条:
-    + Preyhunter's Journey -> 猎捕手的旅程
+    + Eastern Amani Outpost -> 东阿曼尼岗哨
+    + Northern Amani Bulwark -> 北阿曼尼堡垒
 
 【HouseDecor】
-  [新增] 93 条:
-    + "Cursed Gaze of Ula'tek" Mural -> “乌拉特克的诅咒凝视”壁画
-    + Altar of Corrosion -> 腐蚀祭坛
-    + Amani Forge -> 阿曼尼熔炉
-    + Amani Forgemaster's Decorative Spear -> 阿曼尼熔炉主管的装饰长枪
-    + Ancient Memories of the Sea -> 远古海洋之忆
-    + Apothecary's Tortollan Display Rack -> 药剂师的始祖龟陈列架
-    + Arathor Toy Sword -> 阿拉索玩具剑
-    + Bakar's Dinner -> 獒犬的晚餐
-    + Bakar's Favorite Ball -> 獒犬最爱的皮球
-    + Bakar's Napping Rug -> 獒犬小憩地毯
-    + Bakar's Snack -> 獒犬的零食
-    + Beguiling Memories of the Sea -> 迷人的海洋记忆
-    + Blood Knight's Decorative Shield -> 血骑士的装饰护盾
-    + Bold Kobold Kabin -> 无畏狗头人卡宾屋
-    + Brewfest Crate -> 美酒节板箱
-    + Brewfest Fence -> 美酒节栅栏
-    + Brewfest Fencepost -> 美酒节栅栏桩
-    + Candle Cage -> 蜡烛笼
-    + Cherished Pet's Rug -> 爱宠地毯
-    + Chiseled Amani Tablet -> 雕凿的阿曼尼石板
-    + Coiled Amani Hookshot -> 盘卷阿曼尼抓钩
-    + Collector's Tortollan Display Rack -> 收藏家的始祖龟陈列架
-    + Color-Curious Candle -> 流光异彩蜡烛
-    + Compact Cookfire -> 便携烹饪火
-    + Cozy Kobold Crate -> 惬意狗头人板条箱
-    + Cracked Vilescar Urn -> 开裂的邪痕瓮
-    + Destroyed Clutch of Ula'tek -> 被毁的乌拉特克卵簇
-    + Draenei Rock Goblet -> 德莱尼岩石高脚杯
-    + Droopy Longwick Rope -> 下垂的长芯绳
-    + Empty Tortollan Display Rack -> 空的始祖龟陈列架
-    + Enchanted Voidwell Fish -> 附魔虚空之泉魔鱼
-    + Ersatz Venom Splatter -> 仿制剧毒飞溅
-    + Feathered Ula'tek Talisman -> 羽饰乌拉特克护符
-    + Flat Snakeskin Canopy -> 平整的蛇皮天篷
-    + Half-Shell Hot Pot -> 半壳火锅
-    + Hanging Brewfest Wreath -> 悬挂的美酒节花环
-    + Hanging Longwick Rope -> 悬挂的长芯绳
-    + Highlighting High Light -> 高高明光烛
-    + Hot Kobold Treasure -> 亮堂堂狗头人宝藏
-    + Kobold Dig-Thing -> 狗头人挖挖铲
-    + Kobold Sit-Thing -> 狗头人坐坐椅
-    + Large Ornate Khanam's Rug -> 大型华丽可汗地毯
-    + Large Threedium Warrens Candle -> 大号三芯兽穴蜡烛
-    + Large Warrens Candle -> 大号兽穴蜡烛
-    + Large Wooden Floor Tile -> 大型木制地砖
-    + Large Wooden Wall Tile -> 大型木制墙面砖
-    + Longwick Rope -> 长芯绳
-    + Lost Explorers' Mailbox -> 迷失的探险者邮箱
-    + Maruukai Barricade -> 马鲁凯路障
-    + Maruukai Chef's Stove -> 马鲁凯主厨火炉
-    + Maruukai Feast Table -> 马鲁凯宴会桌
-    + Maruukai Storage Basket -> 马鲁凯收纳篮
-    + Maruukai Wooden Table -> 马鲁凯木制桌子
-    + Mason's Tortollan Display Rack -> 石匠的始祖龟陈列架
-    + Medium Warrens Candle -> 中号兽穴蜡烛
-    + Oozing Vilescar Barricade -> 渗液的邪痕路障
-    + Opalescent Amani Peridot -> 乳白阿曼尼榄石
-    + Open Maruukai Storage Basket -> 敞开的马鲁凯收纳篮
-    + Ornate Khanam's Rug -> 华丽可汗地毯
-    + Piercing Amani Lapis -> 穿刺阿曼尼青金石
-    + Preyhunter's Fanged Bust -> 猎捕手的毒牙半身像
-    + Preyhunter's Fanged Effigy -> 猎捕手的毒牙神像
-    + Preyhunter's Scaled Bust -> 猎捕手的鳞甲半身像
-    + Preyhunter's Scaled Effigy -> 猎捕手的鳞甲神像
-    + Protected Tortollan Scroll Case -> 受保护的始祖龟卷轴盒
-    + Proudmoore Ship-in-a-Bottle -> 普罗德摩尔瓶中船
-    + Purified Sin'dorei Candle -> 净化的辛多雷蜡烛
-    + Roaring Amani Garnet -> 咆哮阿曼尼榴石
-    + Sea Glass Bauble -> 海玻璃小球
-    + Sea Glass Lamp Post -> 海玻璃灯柱
-    + Sealeather Sack -> 海皮小包
-    + Seeker's First Draft -> 求知者的初稿
-    + Shrine of Jan'alai, Loa of Fire -> 加亚莱，烈火之神神龛
-    + Small Warrens Candle -> 小号兽穴蜡烛
-    + Small Wooden Floor Tile -> 小型木制地砖
-    + Small Wooden Wall Tile -> 小型木制墙面砖
-    + Soulcoiler Jaw -> 盘魂者下颌
-    + Soulcoiler Skull -> 盘魂者头骨
-    + Tapered Maruukai Barricade -> 锥形马鲁凯路障
-    + Tortollan Scholar Satchel -> 始祖龟学者背包
-    + Tortollan Tarp Tent -> 始祖龟油布帐篷
-    + Tortollan Traveler's Chest -> 始祖龟旅行者的箱子
-    + Tortollan Traveler's Tincture -> 始祖龟旅行者的药水瓶
-    + Traditional Brewfest Banner -> 传统美酒节旗帜
-    + Tuskarr Fire Pit -> 海象人火坑
-    + Tuskarr Fishing Gear Rack -> 海象人渔具架
-    + Tuskarr Hanging Grill -> 海象人吊烤架
-    + Twilight's Blade Bedroll -> 暮光之刃铺盖
-    + Venom Scholar's Focus -> 毒液学者的聚焦器
-    + Vilescar Weapon Rack -> 邪痕武器架
-    + Warrens Candlecooker -> 兽穴煮蜡者
-    + Wide Maruukai Barricade -> 宽版马鲁凯路障
-    + Wide Wooden Staircase -> 宽型木制楼梯
-  [移除] 1 条:
-    - Forgotten Amani Mural -> 被遗忘的阿曼尼壁画
+  [新增] 21 条:
+    + "Summoning of Ula'tek" Mural -> “乌拉特克的召唤”壁画
+    + Atal'Utek Ivy -> 阿塔乌特克常春藤
+    + Corrosive Cache -> 腐蚀宝箱
+    + Forgotten Amani Urn -> 被遗忘的阿曼尼骨灰瓮
+    + Fortified Amani Awning -> 强固的阿曼尼雨篷
+    + Kobold's Hanging Kandles -> 狗头人的悬挂蜡烛
+    + Large Triangular Wooden Tile -> 大型三角木制地砖
+    + Mysterious Voodoo Mask -> 神秘巫毒面具
+    + Pungent Atal'Utek Shroom -> 刺鼻的阿塔乌特克蕈菇
+    + Short Round Wooden Column -> 短款圆形木柱
+    + Short Square Wooden Column -> 短款方形木柱
+    + Small Triangular Wooden Tile -> 小型三角木制地砖
+    + Spiral Wooden Stairs -> 螺旋木制楼梯
+    + Tall Round Wooden Column -> 高款圆形木柱
+    + Tall Square Wooden Column -> 高款方形木柱
+    + Unearthed Amani Sarcophagus Base -> 出土的阿曼尼石棺底座
+    + Unearthed Amani Sarcophagus Lid -> 出土的阿曼尼石棺盖
+    + Venomjade Necklace -> 毒翡翠项链
+    + Venomous Defender's Barricade -> 剧毒防御者的壁垒
+    + Venomous Globule -> 烈毒水滴
+    + Venomous Thread -> 烈毒丝线
+  [更新] 1 条:
+    ~ Chiseled Amani Tablet: 雕凿的阿曼尼石板 -> 阿曼尼雕纹石板
+  [移除] 4 条:
+    - Hanging Candles -> 悬挂的蜡烛
+    - Unearthed Sarcophagus Base -> 出土的石棺底座
+    - Unearthed Sarcophagus Lid -> 出土的石棺盖
+    - Zul'Aman Amani Awning -> 祖阿曼阿曼尼雨篷
+
+【HouseRoom】
+  [新增] 20 条:
+    + Autumnal Westfall Barn -> 秋日西部荒野谷仓
+    + Bel'ameth Meeting Room -> 贝拉梅斯会议室
+    + Bel'ameth Nestled Bedroom -> 贝拉梅斯隐秘卧室
+    + Bel'ameth Temple Room -> 贝拉梅斯神殿室
+    + Bel'ameth Theater -> 贝拉梅斯剧院
+    + Orgrimmar Council Room -> 奥格瑞玛议事厅
+    + Orgrimmar Display Room -> 奥格瑞玛陈列室
+    + Orgrimmar Stone Pit Room -> 奥格瑞玛石坑室
+    + Orgrimmar Theater -> 奥格瑞玛剧院
+    + Silvermoon Armory -> 银月城军械库
+    + Silvermoon Display Room -> 银月城陈列室
+    + Silvermoon Lofty Study -> 银月城高层书房
+    + Silvermoon Small Study -> 银月城小型书房
+    + Sky Blue Riverside Room -> 天蓝河畔室
+    + Springtime Westfall Barn -> 春日西部荒野谷仓
+    + Stormwind Armory -> 暴风城军械库
+    + Stormwind Display Room -> 暴风城陈列室
+    + Stormwind Grand Hall -> 暴风城大厅
+    + Stormwind Kitchen -> 暴风城厨房
+    + Verdant Riverside Room -> 翠绿河畔室
 
 【InitiativeTask】
-  [新增] 9 条:
-    + Collect Corrosive Coins in the Coiled Isle. -> 在盘卷蛇岛收集腐蚀之币。
-    + Defeat Cursed Surge Bosses in the Coiled Isle. -> 在盘卷蛇岛击败诅咒狂潮首领。
-    + Defeat enemies alongside a Bakar Companion during a Grand Hunt. -> 在洪荒狩猎期间与獒犬同伴并肩作战，击败敌人。
-    + Earn Tortollan Seekers Reputation. -> 获取始祖龟求知者声望。
-    + In your neighborhood, commission a wax sculpture from a kobold artist. This task can be completed once per day. -> 在你的住宅区中，委托一位狗头人艺术家制作一件蜡雕。此任务每天可完成一次。
-    + In your neighborhood, find Secret Souvenirs hidden by tortollan children. -> 在你的住宅区中，寻找并收集始祖龟孩子们藏起来的秘密纪念品。
-    + Participate in activities on Lost Arvillo in Waking Shores in the Dragon Isles. -> 在巨龙群岛觉醒海岸的失落的阿威罗上参与各项活动。
-    + Recover Archeology Finds at Dig Sites in Zandalar or Kul Tiras -> 在赞达拉或库尔提拉斯的挖掘场搜寻考古发现。
-    + Wash dirty bakar at the neighborhood washing station. -> 在住宅区的洗狗站清洗弄脏的獒犬。
-
-【NeighborhoodInitiative】
-  [新增] 1 条:
-    + Strange wax deposits have started to appear in the neighborhood. Who better to find a use than the Kobolds of the Ringing Deeps? Seek their counsel on illumination. -> 住宅区里开始出现奇怪的蜡质沉积物。要说谁最懂得怎么利用这些东西，那非喧鸣深窟的狗头人莫属！去向他们请教照明的建议吧。
+  [新增] 3 条:
+    + Defeat Zul'jan -> 击败祖尔加
+    + Defeat Zul'jan in the Alter of Fangs. -> 在毒牙祭坛击败祖尔加。
+    + In your neighborhood, help the tortollan travel guide pass out promotional pamphlets for the underwater tavern. This quest can be completed once per day. -> 在你的住宅区中，帮助始祖龟旅行向导分发水下酒馆的宣传册。该任务每日可完成一次。
+  [移除] 2 条:
+    - Defeat Jul'jan -> 击败祖尔金
+    - Defeat Jul'jan in the Alter of Fangs. -> 在毒牙祭坛击败祖尔金。
