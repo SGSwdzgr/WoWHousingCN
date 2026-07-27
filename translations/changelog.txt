@@ -1,70 +1,49 @@
-版本更新日志 (Game Version: 12.1.0.68569 -> 12.1.0.68824)
+版本更新日志 (Game Version: 12.1.0.68824 -> 12.1.0.68914)
 ========================================
 
+【Achievement】
+  [新增] 6 条:
+    + Arena Exercise -> 竞技场演练
+    + Heroic: Nymrissa Wavecaller Guild Run -> 英雄：尼姆瑞莎·唤波者（公会版）
+    + Mythic: Nymrissa Wavecaller Guild Run -> 史诗：尼姆瑞莎·唤波者（公会版）
+    + Nymrissa Wavecaller Guild Run -> 尼姆瑞莎·唤波者（公会版）
+    + Venomfall Deeps clears -> 完成毒瀑深渊
+    + World Wide Trainer -> 环球训练师
+  [更新] 3 条:
+    ~ Wild Preserve Circuit Reverse: Bronze: 狂野禁猎区障碍赛反向版：青铜 -> 狂野禁猎区巡回赛反向版：青铜
+    ~ Wild Preserve Circuit Reverse: Gold: 狂野禁猎区障碍赛反向版：黄金 -> 狂野禁猎区巡回赛反向版：黄金
+    ~ Wild Preserve Circuit Reverse: Silver: 狂野禁猎区障碍赛反向版：白银 -> 狂野禁猎区巡回赛反向版：白银
+  [移除] 1 条:
+    - Tox'Atal clears -> 托克萨阿塔通关
+
 【AreaTable】
-  [新增] 2 条:
-    + Eastern Amani Outpost -> 东阿曼尼岗哨
-    + Northern Amani Bulwark -> 北阿曼尼堡垒
+  [更新] 1 条:
+    ~ The Opalcreg: 欧珀岩矿 -> 欧泊岩矿
 
 【HouseDecor】
-  [新增] 21 条:
-    + "Summoning of Ula'tek" Mural -> “乌拉特克的召唤”壁画
-    + Atal'Utek Ivy -> 阿塔乌特克常春藤
-    + Corrosive Cache -> 腐蚀宝箱
-    + Forgotten Amani Urn -> 被遗忘的阿曼尼骨灰瓮
-    + Fortified Amani Awning -> 强固的阿曼尼雨篷
-    + Kobold's Hanging Kandles -> 狗头人的悬挂蜡烛
-    + Large Triangular Wooden Tile -> 大型三角木制地砖
-    + Mysterious Voodoo Mask -> 神秘巫毒面具
-    + Pungent Atal'Utek Shroom -> 刺鼻的阿塔乌特克蕈菇
-    + Short Round Wooden Column -> 短款圆形木柱
-    + Short Square Wooden Column -> 短款方形木柱
-    + Small Triangular Wooden Tile -> 小型三角木制地砖
-    + Spiral Wooden Stairs -> 螺旋木制楼梯
-    + Tall Round Wooden Column -> 高款圆形木柱
-    + Tall Square Wooden Column -> 高款方形木柱
-    + Unearthed Amani Sarcophagus Base -> 出土的阿曼尼石棺底座
-    + Unearthed Amani Sarcophagus Lid -> 出土的阿曼尼石棺盖
-    + Venomjade Necklace -> 毒翡翠项链
-    + Venomous Defender's Barricade -> 剧毒防御者的壁垒
-    + Venomous Globule -> 烈毒水滴
-    + Venomous Thread -> 烈毒丝线
-  [更新] 1 条:
-    ~ Chiseled Amani Tablet: 雕凿的阿曼尼石板 -> 阿曼尼雕纹石板
-  [移除] 4 条:
-    - Hanging Candles -> 悬挂的蜡烛
-    - Unearthed Sarcophagus Base -> 出土的石棺底座
-    - Unearthed Sarcophagus Lid -> 出土的石棺盖
-    - Zul'Aman Amani Awning -> 祖阿曼阿曼尼雨篷
-
-【HouseRoom】
-  [新增] 20 条:
-    + Autumnal Westfall Barn -> 秋日西部荒野谷仓
-    + Bel'ameth Meeting Room -> 贝拉梅斯会议室
-    + Bel'ameth Nestled Bedroom -> 贝拉梅斯隐秘卧室
-    + Bel'ameth Temple Room -> 贝拉梅斯神殿室
-    + Bel'ameth Theater -> 贝拉梅斯剧院
-    + Orgrimmar Council Room -> 奥格瑞玛议事厅
-    + Orgrimmar Display Room -> 奥格瑞玛陈列室
-    + Orgrimmar Stone Pit Room -> 奥格瑞玛石坑室
-    + Orgrimmar Theater -> 奥格瑞玛剧院
-    + Silvermoon Armory -> 银月城军械库
-    + Silvermoon Display Room -> 银月城陈列室
-    + Silvermoon Lofty Study -> 银月城高层书房
-    + Silvermoon Small Study -> 银月城小型书房
-    + Sky Blue Riverside Room -> 天蓝河畔室
-    + Springtime Westfall Barn -> 春日西部荒野谷仓
-    + Stormwind Armory -> 暴风城军械库
-    + Stormwind Display Room -> 暴风城陈列室
-    + Stormwind Grand Hall -> 暴风城大厅
-    + Stormwind Kitchen -> 暴风城厨房
-    + Verdant Riverside Room -> 翠绿河畔室
-
-【InitiativeTask】
-  [新增] 3 条:
-    + Defeat Zul'jan -> 击败祖尔加
-    + Defeat Zul'jan in the Alter of Fangs. -> 在毒牙祭坛击败祖尔加。
-    + In your neighborhood, help the tortollan travel guide pass out promotional pamphlets for the underwater tavern. This quest can be completed once per day. -> 在你的住宅区中，帮助始祖龟旅行向导分发水下酒馆的宣传册。该任务每日可完成一次。
-  [移除] 2 条:
-    - Defeat Jul'jan -> 击败祖尔金
-    - Defeat Jul'jan in the Alter of Fangs. -> 在毒牙祭坛击败祖尔金。
+  [新增] 16 条:
+    + Demont Orchard Juicer -> 迪蒙特果园榨汁机
+    + Framed Moonbrook Quilt -> 月溪镇裱框拼布
+    + Furlbrow Farm Pumpkin Trio -> 法布隆农场南瓜三件组
+    + Jansen Farm Floral Basket -> 贾森农场花篮
+    + Maxwell Stables Saddle -> 麦克斯韦尔马厩鞍具
+    + Molsen Farm Corn Row -> 摩尔森农场玉米垄
+    + Old Moonbrook Creeping Ivy -> 月溪镇旧式攀援藤蔓
+    + Old Moonbrook Daylight Window -> 月溪镇旧式日景窗
+    + Old Moonbrook Nighttime Window -> 月溪镇旧式夜景窗
+    + Perch of the Dawnfire Phoenix -> 晨火凤凰的栖木
+    + Saldean Autumnal Woven Rug -> 萨丁农场秋色编织地毯
+    + Sentinel Hill Picnic Table -> 哨兵岭野餐桌
+    + Sentinel Hill Rocking Chair -> 哨兵岭摇椅
+    + Torquewrench Tractor -> 托克伦齐拖拉机
+    + Westfall Farmer's Shed -> 西部荒野农夫棚屋
+    + Westfall Harvest Lamp -> 西部荒野丰收灯
+  [更新] 8 条:
+    ~ Augmenter's Opal Banner: 增辉师的蛋白石旗帜 -> 增辉师的欧泊旗帜
+    ~ Decorative Dornogal Opal: 装饰性多恩诺嘉尔欧珀 -> 装饰性多恩诺嘉尔欧泊
+    ~ Large Decorative Dornogal Opal: 大型装饰性多恩诺嘉尔欧珀 -> 大型装饰性多恩诺嘉尔欧泊
+    ~ Opalescent Amani Peridot: 乳白阿曼尼榄石 -> 乳光阿曼尼榄石
+    ~ Small Decorative Dornogal Opal: 小型装饰性多恩诺嘉尔欧珀 -> 小型装饰性多恩诺嘉尔欧泊
+    ~ Tuskarr Fire Pit: 海象人火坑 -> 伊斯卡拉围炉
+    ~ Tuskarr Fishing Gear Rack: 海象人渔具架 -> 伊斯卡拉渔具架
+    ~ Tuskarr Hanging Grill: 海象人吊烤架 -> 伊斯卡拉鲸骨吊架
