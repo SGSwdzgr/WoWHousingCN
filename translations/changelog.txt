@@ -1,9 +1,400 @@
-版本更新日志 (Game Version: 12.1.0.68914 -> 12.1.0.69404)
+版本更新日志 (Game Version: 12.1.0.68914 -> 12.1.5.69848)
 ========================================
 
 【Achievement】
-  [新增] 1 条:
+  [新增] 52 条:
+    + A Few More Can't Hurt -> 再来亿点也无妨
+    + Aqir Research Associate -> 亚基研究助理
+    + Bane of the Swarm -> 虫群克星
+    + BlizzCon 2026 -> 2026年暴雪嘉年华
+    + Comforting De Spirits -> 安抚精魂
+    + Driving Back the Swarm -> 虫退三舍
+    + Drustvar Choc-O-Drop Designer -> 德鲁斯瓦巧克力糖设计师
+    + Duskwood Caramel Crafter -> 暮色森林焦糖工匠
+    + Fabled Let Me Solo Him: Kindo'jan -> 传说前有单挑：金多赞
+    + Felwood Fudge Bite Former -> 费伍德森林软糖块制作师
+    + Fungal Not Frugal -> 有菌就是任性
+    + Happy Hexmask Collector -> 幸福巫面收藏家
+    + Heroic: Kith'ix -> 基希克斯（英雄难度）
+    + I Ain't Afraid of no Ghost -> 我才不怕鬼呢
+    + Kindo'jan's Labyrinth Discoveries -> 金多赞的迷宫秘藏
+    + Kith'ix -> 基希克斯
+    + Kith'ix (Heroic The Unbinding of Kith'ix) -> 基希克斯（英雄基希克斯破封）
+    + Kith'ix (Mythic The Unbinding of Kith'ix) -> 基希克斯（史诗基希克斯破封）
+    + Kith'ix (Normal The Unbinding of Kith'ix) -> 基希克斯（普通基希克斯破封）
+    + Kith'ix (Raid Finder The Unbinding of Kith'ix) -> 基希克斯（随机团队基希克斯破封）
+    + Knock Knock -> 叩门而入
+    + Let Me Solo Him: Kindo'jan -> 前有单挑：金多赞
+    + Lock and Key -> 一锁一钥
+    + Lock and Key Master -> 锁钥宗师
+    + Master of Merry Mayhem -> 冬幕乱斗大师
+    + Midnight Keystone Myth: Season 2 -> “至暗之夜”钥石神话：第2赛季
+    + My Labyrinth -> 我的迷宫！
+    + Mythic: Kith'ix -> 基希克斯（史诗难度）
+    + No Hives Left Standing -> 片巢不留
+    + Skyriding Glyphs: The Wreck of Sethraliss's Scales -> 驭空术魔符：塞塔里斯之鳞号残骸
+    + The First Hash'ey -> 初代哈谢
+    + The Labyrinth of Kindo'jan -> 金多赞的迷宫
+    + The Labyrinth of Kindo'jan: One-Champion Army -> 金多赞的迷宫：一人成军
+    + The Labyrinth of Kindo'jan: Tier 1 -> 金多赞的迷宫：难度1
+    + The Labyrinth of Kindo'jan: Tier 10 -> 金多赞的迷宫：难度10
+    + The Labyrinth of Kindo'jan: Tier 11 -> 金多赞的迷宫：难度11
+    + The Labyrinth of Kindo'jan: Tier 2 -> 金多赞的迷宫：难度2
+    + The Labyrinth of Kindo'jan: Tier 3 -> 金多赞的迷宫：难度3
+    + The Labyrinth of Kindo'jan: Tier 4 -> 金多赞的迷宫：难度4
+    + The Labyrinth of Kindo'jan: Tier 5 -> 金多赞的迷宫：难度5
+    + The Labyrinth of Kindo'jan: Tier 6 -> 金多赞的迷宫：难度6
+    + The Labyrinth of Kindo'jan: Tier 7 -> 金多赞的迷宫：难度7
+    + The Labyrinth of Kindo'jan: Tier 8 -> 金多赞的迷宫：难度8
+    + The Labyrinth of Kindo'jan: Tier 9 -> 金多赞的迷宫：难度9
+    + The Promise of Tomorrow -> 共许明日
+    + Total Kindo'jan Kills -> 消灭金多赞总次数
+    + Total Kindo'jan's Labyrinth Chambers completed -> 金多赞的迷宫房间完成总数
+    + Treasures Upon Treasures -> 宝藏堆成山
+    + Whose Labyrinth? -> 谁的迷宫？
+    + Winds of Particularly Mysterious Fortune -> 格外神秘的运势之风
+    + WoW's 22nd Anniversary -> 《魔兽世界》二十二周年
     + Zul'jarra's Forces Champion -> 祖尔加拉的部队（勇士）
   [更新] 2 条:
     ~ Champion of the Dawn: 黎明勇士 -> 曙光勇士
     ~ Midnight Season 1: Champion of the Dawn: “至暗之夜”第1赛季：黎明勇士 -> “至暗之夜”第1赛季：曙光勇士
+  [移除] 2 条:
+    - Comforting Da Spirits -> 安抚精魂
+    - Skyriding Glyphs: The Wreck of Sethralis's Scales -> 驭空术魔符：塞塔里斯之鳞号残骸
+
+【AreaTable】
+  [新增] 12 条:
+    + Akil'zon's Roost -> 埃基尔松的栖台
+    + Central Chamber -> 中央大厅
+    + Chamber of Rites -> 祭仪之厅
+    + Halazzi's Lair -> 哈尔拉兹的巢窟
+    + Jan'alai's Refuge -> 加亚莱的隐殿
+    + Kith'ix's Prison -> 基希克斯囚牢
+    + Nalorakk's Rest -> 纳洛拉克的憩所
+    + The Cave Towers -> 洞窟塔群
+    + The Labyrinth of Kindo'jan -> 金多赞的迷宫
+    + The Reliquary -> 骸骨室
+    + The Speaker's Chamber -> 神灵代言人之厅
+    + The Unbinding of Kith'ix -> 基希克斯破封
+  [更新] 1 条:
+    ~ Labyrinth: 奇幻迷宫 -> 迷宫
+
+【CurrencyTypes】
+  [新增] 4 条:
+    + Aqir Research Enclave -> 亚基研究飞地
+    + Kindo'jan's Labyrinth Journey -> 金多赞的迷宫旅程
+    + Renown - Season 2 Labyrinth -> 名望 - 第2赛季迷宫
+    + Soul -> 灵魂
+
+【DataTagGroup】
+  [新增] 1 条:
+    + Profession -> 专业技能
+
+【DataTagInfo】
+  [新增] 1 条:
+    + Lightforged Draenei -> 光铸德莱尼
+
+【Faction】
+  [新增] 2 条:
+    + Aqir Research Enclave -> 亚基研究飞地
+    + The Labyrinth of Kindo'jan -> 金多赞的迷宫
+
+【HouseDecor】
+  [新增] 264 条:
+    + "Gnoma Lisa" Painting -> “侏娜丽莎”画作
+    + "Pride of Stormwind" Statue -> “暴风城之傲”雕像
+    + Aborius Pod Plant -> 埃布留斯荚株
+    + Amani Fishing Canoe -> 阿曼尼渔舟
+    + Amani Hex Candle -> 阿曼尼妖术蜡烛
+    + Amani Horn Beaker -> 阿曼尼兽角大杯
+    + Amani Horn Cup -> 阿曼尼兽角杯
+    + Amani Open Fire Grill -> 阿曼尼明火烤架
+    + Amethyst Argunite Crystal -> 紫色阿古尼特水晶
+    + Ancient Amani Mural -> 远古阿曼尼壁画
+    + Anima-Infused Dreamcatcher -> 心能灌注的捕梦网
+    + Anima-Powered Anvil -> 心能驱动的铁砧
+    + Anima-Powered Kyrian Oven -> 心能驱动的格里恩之炉
+    + Apple Bobbing Bucket -> 咬苹果桶
+    + Aqir Hunter's Trophy -> 亚基猎手战利品
+    + Arching Crimson Ivy -> 拱形猩红常春藤
+    + Argunite Crystal Storage -> 阿古尼特水晶储藏箱
+    + Argunite Sconce -> 阿古尼特灯台
+    + Beloved Murloc Plushie -> 心爱的毛绒鱼人
+    + Beloved Ottuk Plushie -> 心爱的毛绒奥獭
+    + Beloved Ottuuuuuuk Plushie -> 心爱的毛绒嗷嗷奥獭
+    + Beloved Plush Doll -> 心爱的毛绒娃娃
+    + Black Vulpera Cushion -> 黑色狐人软垫
+    + BlizzCon Doormat -> 暴雪嘉年华门垫
+    + Blooming Celestial Dreamleaf -> 盛放的天界梦叶
+    + Blue Amani Tapestry -> 蓝色阿曼尼挂毯
+    + Blue Vulpera Cushion -> 蓝色狐人软垫
+    + Boardcraft Forsaken Figurine -> 棋盘工艺被遗忘者棋子
+    + Boardcraft Human Figurine -> 棋盘工艺人类棋子
+    + Boralus Swill Bottle -> 伯拉勒斯劣酒瓶
+    + Brightburned Nathrian Clawbush -> 灼燃的纳斯利亚爪刺灌木
+    + Brightburned Nathrian Root -> 灼燃的纳斯利亚之根
+    + Broken Amani Ritual Urn -> 破损的阿曼尼仪式瓮
+    + Brown Amani Tapestry -> 棕色阿曼尼挂毯
+    + Buckled Witch Hat -> 搭扣女巫帽
+    + Candlelit Ogre Jack-o'-Lantern -> 烛光摇曳的食人魔南瓜灯
+    + Candlelit Shrieking Jack-o'-Lantern -> 烛光摇曳的尖啸南瓜灯
+    + Candlelit Smiling Jack-o'-Lantern -> 烛光摇曳的微笑南瓜灯
+    + Caravan Smith's Anvil -> 篷车铁匠的铁砧
+    + Carved Argunite Supply -> 雕纹阿古尼特补给
+    + Celadon Argunite Crystal -> 碧色阿古尼特水晶
+    + Celestial Grovebush -> 天界灌木丛
+    + Ceremonial Kyrian Standard -> 仪式格里恩旗帜
+    + Ceremonial Lightforged Standard -> 仪式光铸旗帜
+    + Closed Vulpera Scroll -> 合上的狐人卷轴
+    + Confessor's Anima Jar -> 告解者的心能罐
+    + Corroded Amani Sconce -> 锈蚀的阿曼尼灯台
+    + Cracked Amani Funerary Urn -> 开裂的阿曼尼丧葬瓮
+    + Curved Karabor Hedge -> 弧形卡拉波绿篱
+    + Damaged Nomad's Makeshift Barricade -> 破损的游牧民临时路障
+    + Decorative Lightforged Holo-Screen -> 装饰性光铸全息屏幕
+    + Decorative Lightweave Bolt -> 装饰性光织布卷
+    + Dormant Brood Egg -> 休眠的巢群虫卵
+    + Dormant Brood Egg Cluster -> 休眠的巢群卵簇
+    + Dormant Clutch of Brood Eggs -> 休眠的巢群卵丛
+    + Dormant Wildseed -> 休眠灵种
+    + Drustvar Glowcap Cluster -> 德鲁斯瓦亮顶蘑菇簇
+    + Drustvar Leaf Clump -> 德鲁斯瓦叶丛
+    + Drustvar Leaf Patch -> 德鲁斯瓦叶片堆
+    + Drustvar Shelfcap -> 德鲁斯瓦架伞菇
+    + Elaborate Heartsbane Doom Catcher -> 精致的毒心厄运捕手
+    + Elaborate Heartsbane Ritual Markings -> 精致的毒心仪式标记
+    + Elaborate Karabor Hedge -> 精致卡拉波绿篱
+    + Elysian Bulbflower -> 极乐球茎花
+    + Elysian Heart-Lotus -> 极乐心莲
+    + Elysian Skyfrond -> 极乐天叶草
+    + Embaari Beech Tree -> 安波里毛榉树
+    + Enchanted Hallow's End Candle -> 附魔万圣节蜡烛
+    + Endmire Anima Blossom -> 末日迷沼心能花
+    + Endmire Sinsticker Bush -> 末日迷沼罪刺灌木
+    + Eredath Artisan's Workbench -> 艾瑞达斯工匠工作台
+    + Eredath Worktable -> 艾瑞达斯工作台
+    + Eternally Powered Glowskull -> 永久供能的发光颅骨
+    + Everbloom Forest Floor -> 永茂森林地板
+    + Fae Anima Wall Lantern -> 法夜心能壁灯
+    + Fae Animashroom -> 法夜心能菇
+    + Fae Animashroom Circle -> 法夜心能菇环
+    + Fae Lantern Blossom -> 法夜灯笼花
+    + Fae Moonbough Cocoon -> 法夜月枝茧
+    + Fae Moonbough Gate -> 法夜月枝大门
+    + Fae Moonbough Scroll -> 法夜月枝卷轴
+    + Fae Moonbough Table -> 法夜月枝桌
+    + Filled Candy Bucket -> 盛满糖果的糖罐
+    + Fortified Nomad's Makeshift Barricade -> 加固的游牧民临时路障
+    + Frayed Amani Offering Basket -> 破旧的阿曼尼供品篮
+    + Gilded Stonework Altar -> 鎏金石制祭坛
+    + Gleaming Lightforge -> 闪耀光铸熔炉
+    + Gleaming Lightforged Grindstone -> 闪亮的光铸磨刀石
+    + Gloomshade Glowpod -> 暗影光荚
+    + Golden Argunite Crystal -> 金色阿古尼特水晶
+    + Gordawg Mossy Rock -> 戈达乌苔藓石
+    + Green Amani Tapestry -> 绿色阿曼尼挂毯
+    + Handmade Shen'dorei Pillow -> 手工申多雷靠垫
+    + Hanging Argunite Lamp -> 阿古尼特吊灯
+    + Hanging Elysian Skyvy -> 悬挂的极乐天藤
+    + Hanging Lightforged Standard -> 悬挂的光铸旗帜
+    + Hanging Wildgrove Ivy -> 悬挂的荒林常春藤
+    + Hanging Wildseed -> 悬挂的灵种
+    + Heartsbane Banner -> 毒心旗帜
+    + Heartsbane Candle -> 毒心蜡烛
+    + Heartsbane Doom Catcher -> 毒心厄运捕手
+    + Heartsbane Ritual Markings -> 毒心仪式标记
+    + Heartsbane Stone Circle -> 毒心石阵
+    + Highback Bonewood Chair -> 高背骨木椅
+    + Highmaul Sentinel Tree -> 悬槌哨卫之树
+    + Horrific Head of the Horseman -> 无头骑士的骇人头颅
+    + Huddled Nightmarsh Blossom -> 簇拥的夜沼花
+    + Incineratus Grass Patch -> 伊森拉图斯草丛
+    + Kalandrios Lily -> 卡拉迪奥斯百合
+    + Karabor Beech Tree -> 卡拉波毛榉树
+    + Karabor Hedge -> 卡拉波绿篱
+    + Kith'ix's Seal -> 基希克斯之印
+    + Kyrian Steward Effigy -> 格里恩侍从雕像
+    + Kyrian Waymarker -> 格里恩路标
+    + Kyrian Waymarker Plaque -> 格里恩路标牌
+    + Large Nathrian Bladebush -> 大型纳斯利亚刃叶灌木
+    + Large Nathrian Briar Root -> 大型纳斯利亚荆棘根
+    + Leaning Celestial Orchid -> 斜倚的天界兰花
+    + Leaning Wildgrove Tree -> 斜倚的荒林树
+    + Levitating Lich Library -> 悬浮的巫妖书库
+    + Lightforged Control Console -> 光铸控制台
+    + Lightforged Holo-Barricade -> 光铸全息路障
+    + Lightforged Holo-Parapet -> 光铸全息护墙
+    + Lightforged Holo-Shield -> 光铸全息盾牌
+    + Lightforged Holo-Tower -> 光铸全息塔
+    + Lightforged Recall Beacon -> 光铸召回道标
+    + Lillistrasza's Lucky Duck Plushie -> 莉莉斯塔萨的毛绒幸运鸭
+    + Lonely Banewood Pine -> 孤独的灾厄松
+    + Long Red Vulpera Cushion -> 长款红色狐人软垫
+    + Looming Heartsbane Effigy -> 高耸的毒心雕像
+    + Lunarfall Beech Tree -> 坠月毛榉树
+    + Lush Celestial Moonbough -> 繁茂天界月枝
+    + Lush Drustvar Witchfern -> 茂盛的德鲁斯瓦巫蕨
+    + Lush Elysian Bellflower Bush -> 茂盛的极乐铃花灌木
+    + Lush Elysian Lily -> 茂盛的极乐百合
+    + Lush Elysian Lotus -> 茂盛的极乐莲花
+    + Lush Wildgrove Fern -> 茂盛的荒林蕨
+    + Maldraxxi Anima Crystal -> 玛卓克萨斯心能水晶
+    + Maldraxxi Horned Beast Skull -> 玛卓克萨斯角兽颅骨
+    + Maldraxxi Shielding Lattice -> 玛卓克萨斯防护晶格
+    + Mature Spiritwood Oak -> 成熟的灵木橡树
+    + Mature Star Lily -> 成熟的烁星百合
+    + Mysterious Imported Piranha -> 神秘的进口食人鱼
+    + Nagrand Clover Cluster -> 纳格兰苜蓿丛
+    + Nagrand Heart Ivy -> 纳格兰心形常春藤
+    + Nagrand Wild Wheat -> 纳格兰野麦
+    + Narrow Kyrian Drapes -> 窄幅格里恩挂帘
+    + Nathrian Forked Briar -> 纳斯利亚分叉荆棘
+    + Nathrian Fungal Rotcap -> 纳斯利亚真菌腐伞
+    + Nathrian Leafy Briar -> 纳斯利亚多叶荆棘
+    + Nathrian Reaching Briar -> 纳斯利亚伸枝荆棘
+    + Nathrian Rubyroot Growth -> 纳斯利亚红宝石株
+    + Nathrian Sinstain Bush -> 纳斯利亚罪痕灌木
+    + Nathrian Sinstain Ivy Cluster -> 纳斯利亚罪痕常春藤簇
+    + Nathrian Sinstain Oak -> 纳斯利亚罪痕橡木
+    + Nathrian Thicket Hedge -> 纳斯利亚灌木树篱
+    + Nathrian Window -> 纳斯利亚窗户
+    + Nomad's Bowl Set -> 游牧民碗具套装
+    + Nomad's Campfire Grill -> 游牧者营火烤架
+    + Nomad's Covered Serving Bowl -> 游牧民带盖餐碗
+    + Nomad's Mortar and Pestle -> 游牧民研钵与研杵
+    + Nomad's Refreshment Set -> 游牧民茶点套装
+    + Nomad's Round Cushion -> 游牧民圆形坐垫
+    + Nomad's Serving Bowl -> 游牧民餐碗
+    + Nomad's Serving Sundries -> 游牧民杂项餐具
+    + Nomad's Steel Forge -> 游牧者钢铁锻炉
+    + Nomad's Steel Lantern -> 游牧民钢制灯笼
+    + Nomad's Stone Pitcher -> 游牧民石壶
+    + Nomad's Stone Urn -> 游牧民石瓮
+    + Nomad's Warped Water Gourd -> 游牧民变形水葫芦
+    + Nomad's Water Gourd -> 游牧民水葫芦
+    + Nomad's Wooden Lamppost -> 游牧民木制路灯
+    + Nomad's Wooden Table -> 游牧民木制桌子
+    + Nomad's Worn Water Gourd -> 游牧民破旧水葫芦
+    + Nourished Brood Egg Cluster -> 滋养的巢群卵簇
+    + Nourished Brood Eggs -> 滋养的巢群虫卵
+    + Nourished Clutch of Brood Eggs -> 滋养的巢群卵丛
+    + Obsidian Lava Pool -> 黑曜熔岩池
+    + Ominous Heartsbane Banner -> 不祥的毒心旗帜
+    + Ominous Heartsbane Shrine -> 不祥的毒心神龛
+    + Open Bonewood Barrel -> 敞开的骨木桶
+    + Open Domanaar Storage Crate -> 敞开的多曼纳尔储物箱
+    + Open Fungal Jar -> 敞口的真菌罐子
+    + Open Serpentine Reliquary -> 敞开的蛇裔圣物箱
+    + Open Sin'dorei Scroll -> 摊开的辛多雷卷轴
+    + Ornate Kyrian Glass Platform -> 华丽的格里恩玻璃平台
+    + Ornate Vulpera Caravan -> 华丽的狐人篷车
+    + Ossified Maldraxxi Spike -> 骨化玛卓克萨斯尖刺
+    + Overgrown Valuun Shrub -> 蔓生的瓦鲁恩灌木
+    + Pale Nathrian Rose -> 苍白纳斯利亚玫瑰
+    + Pale Shadowmoon Willow -> 苍白影月柳
+    + Radiant Elysian Water Lily -> 璀璨的极乐睡莲
+    + Raw Argunite Supply -> 阿古尼特原石补给
+    + Reinforced Empyrium Tile -> 加固的天界金地砖
+    + Reinforced Nomad's Makeshift Barricade -> 强固的游牧民临时路障
+    + Replica Crown of the Triumvirate -> 执政团之冠复制品
+    + Restored Night Fae Sigil -> 复原的法夜印记
+    + Revendreth Sinner's Prison -> 雷文德斯罪人囚笼
+    + Ritual Embaari Arch -> 仪式安波里拱门
+    + Ruined Amani Ritual Urn -> 残破的阿曼尼仪式瓮
+    + Runic Kyrian Reliquary -> 符文格里恩圣匣
+    + Scarecrow Pepe -> 稻草人佩佩
+    + Scarlet Drustvar Oak -> 赤红德鲁斯瓦橡树
+    + Scarlet Drustvar Thornwood -> 赤红德鲁斯瓦荆木
+    + Sentinel Tree Root -> 哨卫之树树根
+    + Shadow Lily Bloom -> 幽影百合花
+    + Shattered Amani Ritual Urn -> 碎裂的阿曼尼仪式瓮
+    + Shen'dorei Standard -> 申多雷徽旗
+    + Shielded Lightforged Pylon -> 带护盾的光铸晶塔
+    + Shimmering Lightforged Canister -> 闪烁的光铸罐
+    + Short Crimson Oak Stump -> 矮短猩红橡树桩
+    + Short Drustvar Oak Stump -> 矮短德鲁斯瓦橡树桩
+    + Simple Hallow's End Candle -> 简易万圣节蜡烛
+    + Sinfall Arched Bookcase -> 堕罪堡拱形书柜
+    + Sinfall Dining Table -> 堕罪堡餐桌
+    + Sinner's Gibbet -> 罪人悬笼
+    + Skysong Sentinel Tree -> 天歌哨卫之树
+    + Small Darkhaven Window -> 小型暗湾镇窗户
+    + Small Nathrian Briar Root -> 小型纳斯利亚荆棘根
+    + Small Shadowmoon Shadebrush -> 小型影月阴影灌木
+    + Small Shimmering Moonvine -> 小型微光月藤
+    + Snowbound Highroad Pine -> 覆雪高山松
+    + Solar Mana-Ring -> 日能魔力之环
+    + Sparse Elysian Pondweed -> 稀疏的极乐池草
+    + Spherical Nathrian Topiary -> 球形纳斯利亚造型树
+    + Spidery Witch Hat -> 蛛形女巫帽
+    + Spiritwood Oak Stump -> 灵木橡树桩
+    + Spooky Scarecrow -> 诡异稻草人
+    + Standing Argunite Lamp -> 立式阿古尼特灯
+    + Starseed Sapling -> 星种树苗
+    + Stonecrag Sentinel Tree -> 岩壁哨卫之树
+    + Suspended Lich Scroll -> 悬挂的巫妖卷轴
+    + Symbol of Halazzi, Loa of the Hunt -> 哈尔拉兹，狩猎之神的印记
+    + Tall Crimson Oak -> 高大的猩红橡树
+    + Tusked Amani Canoe -> 獠牙阿曼尼独木舟
+    + Twisted Crimson Root -> 扭曲猩红根茎
+    + Unlit Ogre Jack-o'-Lantern -> 未点燃的食人魔南瓜灯
+    + Unlit Shrieking Jack-o'-Lantern -> 未点燃的尖啸南瓜灯
+    + Unlit Smiling Jack-o'-Lantern -> 未点燃的微笑南瓜灯
+    + Vacant Buzzard Roost -> 空置秃鹫栖木
+    + Venthyr Alchemy Rack -> 温西尔炼金架
+    + Venthyr Fence -> 温西尔栅栏
+    + Venthyr Fencepost -> 温西尔栅栏桩
+    + Verdant Elysian Crownblossom -> 翠绿极乐冠花
+    + Verdant Mire Scale-Leaf -> 翠绿沼泽鳞叶
+    + Verdant Shadowmoon Willow -> 翠绿影月柳
+    + Vulpera Postbox -> 狐人邮箱
+    + Vulpera War Banner -> 狐人战旗
+    + Wall-Mounted Amani Animal Trophy -> 壁挂式阿曼尼动物战利品
+    + Wandering Sentinel Tree -> 游荡哨卫之树
+    + Wildgrove Leaf Pile -> 荒林落叶堆
+    + Windshaper's Chimes -> 塑风者风铃
+    + Windswept Elysian Grass -> 迎风的极乐草
+    + Windswept Elysian Shrub -> 迎风的极乐灌木
+    + Windswept Elysian Skyplume -> 迎风的极乐天羽草
+    + Windswept Elysian Willow -> 迎风的极乐柳
+    + Windwell -> 风之井
+    + Winged Elysian Spiralbloom -> 飞翼极乐螺旋花
+    + Withered Barrow-weed -> 枯萎的坟冢草
+    + Withered Crimson Oak -> 枯萎猩红橡树
+    + Wooden Vulpera Caravan -> 木制狐人篷车
+    + Worn Amani Oar -> 磨损的阿曼尼船桨
+    + Young Sentinel Tree -> 哨卫之树树苗
+    + Zephras Drapery -> 泽风帷幔
+  [更新] 1 条:
+    ~ Kafa Press: 咔啡压榨机 -> 咔啡压滤壶
+  [移除] 4 条:
+    - Opened Domanaar Storage Crate -> 打开的多曼纳尔储物箱
+    - Opened Fungal Jar -> 打开的真菌罐子
+    - Opened Serpentine Reliquary -> 打开的蛇裔圣物箱
+    - Opened Sin'dorei Scroll -> 打开的辛多雷卷轴
+
+【InitiativeTask】
+  [新增] 10 条:
+    + Catch Fish in The Ringing Deeps -> 在喧鸣深窟钓鱼
+    + Collect Lumber in The Ringing Deeps -> 在喧鸣深窟收集木料
+    + Collect Odd Globs of Wax in and around The Ringing Deeps. -> 在喧鸣深窟及其周边地区收集怪异蜡团。
+    + Complete World Quests in The Ringing Deeps -> 在喧鸣深窟完成世界任务
+    + Defeat Deepflayers in The Ringing Deeps -> 在喧鸣深窟击败深岩剥石者
+    + Defeat Zul'jan in the Altar of Fangs. -> 在毒牙祭坛击败祖尔加。
+    + Harvest Herbs in The Ringing Deeps -> 在喧鸣深窟采集草药
+    + Harvest Ore in The Ringing Deeps -> 在喧鸣深窟采集矿石
+    + Harvest Skins or Hides in The Ringing Deeps -> 在喧鸣深窟采集皮革或毛皮
+    + Trade 3 Neighborhood Knick Knacks to Griftah. -> 将3件住宅区小玩意交易给格里伏塔。
+  [移除] 12 条:
+    - Catch 20 Fish in The Ringing Deeps -> 在喧鸣深窟钓起20条鱼
+    - Collect 20 Lumber in The Ringing Deeps -> 在喧鸣深窟收集20个木料
+    - Collect 20 Odd Globs of Wax in and around The Ringing Deeps. -> 在喧鸣深窟及其周边地区收集20个怪异蜡团。
+    - Complete 5 World Quests in The Ringing Deeps -> 在喧鸣深窟完成5个世界任务
+    - Defeat 20 Deepflayers in The Ringing Deeps -> 在喧鸣深窟击败20个深岩剥石者
+    - Defeat 20 Enveloping Bloodeaters -> 击败20个笼罩噬血者
+    - Defeat 20 Undercrawlers in The Ringing Deeps -> 在喧鸣深窟击败20个幽暗爬行者
+    - Defeat Zul'jan in the Alter of Fangs. -> 在毒牙祭坛击败祖尔加。
+    - Harvest 20 Herbs in The Ringing Deeps -> 在喧鸣深窟采集20个草药
+    - Harvest 20 Ore in The Ringing Deeps -> 在喧鸣深窟采集20个矿石
+    - Harvest 20 Skins or Hides in The Ringing Deeps -> 在喧鸣深窟采集20个皮革或毛皮
+    - Trade Neighborhood Knick Knacks to Griftah. -> 将住宅区小玩意交易给格里伏塔。
