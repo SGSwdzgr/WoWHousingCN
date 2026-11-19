@@ -1,22 +1,60 @@
-版本更新日志 (Game Version: 12.1.5.69848 -> 12.1.5.70391)
+版本更新日志 (Game Version: 12.1.7.70668 -> 12.1.7.70986)
 ========================================
 
-【AreaTable】
-  [移除] 11 条:
-    - Mysterious Cave A -> 神秘洞穴A
-    - Mysterious Cave B -> 神秘洞穴B
-    - Mysterious Cave C -> 神秘洞穴C
-    - Mysterious Cave D -> 神秘洞穴D
-    - Mysterious Cave E -> 神秘洞穴E
-    - Mysterious Cave F -> 神秘洞穴F
-    - Mysterious Cave G -> 神秘洞穴G
-    - Mysterious Cave H -> 神秘洞穴H
-    - Mysterious Cave I -> 神秘洞穴I
-    - Mysterious Cave J -> 神秘洞穴J
-    - [DO NOT DISTURB] -> [请勿打扰]
+【Achievement】
+  [新增] 6 条:
+    + Stories Shared -> 故事已分享
+    + Stories to Share -> 故事待分享
+    + The Inquisitor and the Scribe -> 审判官与铭文师
+    + The Slayer and the Scribe -> 杀戮者与铭文师
+    + The Tale Complete -> 故事落幕
+    + The Witch and the Scribe -> 魔巫与铭文师
+  [移除] 21 条:
+    - Confronting a Mythic Tale -> 直面史诗故事
+    - Mythic: The Complete Tale -> 史诗：完整篇章
+    - Mythic: The Comprehensive Final Confrontation -> 史诗：全职业最终对决
+    - Mythic: The Fairy Queen -> 史诗：妖精女王
+    - Mythic: The Final Confrontation -> 史诗：最终对决
+    - Mythic: The Final Confrontation's Conclusion -> 史诗：最终对决落幕
+    - Mythic: The Giant of Greenthistle Wood -> 史诗：绿蓟林巨人
+    - Mythic: The Hadal Tyrant -> 史诗：深渊暴君
+    - Mythic: The Herald from Beyond -> 史诗：彼岸传令官
+    - Mythic: The Inquisitor's Final Confrontation -> 史诗：审判官的最终对决
+    - Mythic: The Lord Marshal -> 史诗：大元帅
+    - Mythic: The Nightmare King -> 史诗：噩梦之王
+    - Mythic: The Slayer's Final Confrontation -> 史诗：杀戮者的最终对决
+    - Mythic: The Tale of Darkhaven -> 故事：暗湾镇（史诗）
+    - Mythic: The Tale of Greenthistle Wood -> 故事：绿蓟林（史诗）
+    - Mythic: The Tale of Greywake's Expedition -> 故事：格雷威克的远征（史诗）
+    - Mythic: The Tale of the Court of Night -> 故事：魅夜王庭（史诗）
+    - Mythic: The Vampire Bishop -> 史诗：血裔主教
+    - Mythic: The Witch of the Wilds -> 史诗：荒野魔巫
+    - Mythic: The Witch of the Woods -> 史诗：森林魔巫
+    - Mythic: The Witch's Final Confrontation -> 史诗：魔巫的最终对决
+
+【CurrencyTypes】
+  [新增] 1 条:
+    + Winter Veil Gift -> 冬幕节礼物
 
 【HouseDecor】
-  [新增] 1 条:
-    + Zhevraskin Rug -> 角斑马皮地毯
-  [移除] 1 条:
-    - Elegant Tied Curtain -> 优雅的系结窗帘
+  [新增] 14 条:
+    + Anima-Infused Venthyr Lamppost -> 温西尔心能路灯
+    + Gilded Black Gift Box -> 金饰黑纸礼物盒
+    + Gilded Black Wrapped Gift -> 金饰黑纸包装礼物
+    + Gilded Red Wrapped Gift -> 金饰红纸包装礼物
+    + Large Red Winter Veil Gift -> 大型红色冬幕节礼物
+    + Large White Winter Veil Gift -> 大型白色冬幕节礼物
+    + Purple Gift Bow -> 紫色礼物蝴蝶结
+    + Red Gift Bow -> 红色礼物蝴蝶结
+    + Shifty Chest -> 诡诈宝箱
+    + Small Green Winter Veil Gift -> 小型绿色冬幕节礼物
+    + Small Green Wrapped Gift -> 小型绿纸包装礼物
+    + Small Red Winter Veil Gift -> 小型红色冬幕节礼物
+    + Stitched Winter Veil Stocking -> 冬幕节拼缝长袜
+    + Striped Winter Veil Stocking -> 冬幕节条纹长袜
+  [更新] 5 条:
+    ~ Beloved Ottuuuuuuk Plushie: 心爱的毛绒嗷嗷奥獭 -> 心爱的毛绒奥奥奥獭
+    ~ Ritual Embaari Arch: 仪式安波里拱门 -> 仪式安波里帐篷
+    ~ Runic Kyrian Reliquary: 符文格里恩圣匣 -> 符文格里恩宝箱
+    ~ Verdant Mire Scale-Leaf: 翠绿沼泽鳞叶 -> 翠绿泥沼秤叶
+    ~ Wandering Sentinel Tree: 游荡哨卫之树 -> 蜿蜒哨卫树
